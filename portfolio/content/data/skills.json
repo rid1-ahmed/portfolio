@@ -1,0 +1,196 @@
+[
+  {
+    "id": "fem",
+    "title": {
+      "en": "Finite-element analysis and structural mechanics",
+      "fr": "Éléments finis et mécanique des structures",
+      "bn": "Finite-element analysis and structural mechanics"
+    },
+    "items": [
+      {
+        "name": "MSC Patran / Nastran",
+        "evidence": [
+          "annular-cylinder-fem"
+        ]
+      },
+      {
+        "name": "ANSYS",
+        "evidence": [
+          "wind-turbine-notch"
+        ]
+      },
+      {
+        "name": {
+          "en": "Structural and vibration simulation; notch and stress analysis on turbine blades",
+          "fr": "Simulation structurale et vibratoire ; analyse d’entailles et de contraintes sur pales d’éoliennes",
+          "bn": "Structural and vibration simulation; notch and stress analysis on turbine blades"
+        },
+        "evidence": []
+      },
+      {
+        "name": "COMSOL",
+        "evidence": []
+      }
+    ]
+  },
+  {
+    "id": "programming",
+    "title": {
+      "en": "Programming and numerical analysis",
+      "fr": "Programmation et analyse numérique",
+      "bn": "Programming and numerical analysis"
+    },
+    "items": [
+      {
+        "name": "MATLAB",
+        "evidence": [
+          "annular-cylinder-fem",
+          "matlab-root-finding",
+          "usmc72-bars-and-beams"
+        ]
+      },
+      {
+        "name": "Python",
+        "evidence": [
+          "trust-region-mini-project"
+        ]
+      },
+      {
+        "name": "Excel",
+        "evidence": []
+      },
+      {
+        "name": "LaTeX",
+        "evidence": [
+          "annular-cylinder-fem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cad",
+    "title": {
+      "en": "CAD and mechanical design",
+      "fr": "CAO et conception mécanique",
+      "bn": "CAD and mechanical design"
+    },
+    "items": [
+      {
+        "name": "SolidWorks",
+        "evidence": []
+      },
+      {
+        "name": "AutoCAD",
+        "evidence": []
+      }
+    ]
+  },
+  {
+    "id": "materials",
+    "title": {
+      "en": "Materials and manufacturing",
+      "fr": "Matériaux et fabrication",
+      "bn": "Materials and manufacturing"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Composite materials fabrication and characterisation",
+          "fr": "Élaboration et caractérisation de matériaux composites",
+          "bn": "Composite materials fabrication and characterisation"
+        },
+        "evidence": [
+          "jscp-al-mmc"
+        ]
+      },
+      {
+        "name": {
+          "en": "Stir casting; mould and pattern preparation",
+          "fr": "Brassage en fonderie ; préparation de moules et de modèles",
+          "bn": "Stir casting; mould and pattern preparation"
+        },
+        "evidence": [
+          "jscp-al-mmc"
+        ]
+      },
+      {
+        "name": {
+          "en": "Additive manufacturing",
+          "fr": "Fabrication additive",
+          "bn": "Additive manufacturing"
+        },
+        "evidence": []
+      }
+    ]
+  },
+  {
+    "id": "experimental",
+    "title": {
+      "en": "Experimental and laboratory methods",
+      "fr": "Méthodes expérimentales et de laboratoire",
+      "bn": "Experimental and laboratory methods"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Universal testing machine (UTM) data analysis",
+          "fr": "Analyse de données de machine d’essais universelle (UTM)",
+          "bn": "Universal testing machine (UTM) data analysis"
+        },
+        "evidence": [
+          "jscp-al-mmc"
+        ]
+      },
+      {
+        "name": {
+          "en": "Scanning electron microscope (SEM) imaging",
+          "fr": "Imagerie par microscopie électronique à balayage (MEB)",
+          "bn": "Scanning electron microscope (SEM) imaging"
+        },
+        "evidence": [
+          "jscp-al-mmc"
+        ]
+      },
+      {
+        "name": {
+          "en": "Wind tunnel testing",
+          "fr": "Essais en soufflerie",
+          "bn": "Wind tunnel testing"
+        },
+        "evidence": [
+          "desktop-wind-tunnel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "embedded",
+    "title": {
+      "en": "Embedded systems and instrumentation",
+      "fr": "Systèmes embarqués et instrumentation",
+      "bn": "Embedded systems and instrumentation"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Microcontroller-based prototyping",
+          "fr": "Prototypage à base de microcontrôleurs",
+          "bn": "Microcontroller-based prototyping"
+        },
+        "evidence": [
+          "firefighting-robot"
+        ]
+      },
+      {
+        "name": {
+          "en": "Sensor integration and infrared-based detection",
+          "fr": "Intégration de capteurs et détection infrarouge",
+          "bn": "Sensor integration and infrared-based detection"
+        },
+        "evidence": [
+          "firefighting-robot"
+        ]
+      }
+    ]
+  }
+]

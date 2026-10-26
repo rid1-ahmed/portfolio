@@ -1,0 +1,50 @@
+[
+  {
+    "id": "jscp-2024",
+    "type": "journal-article",
+    "title": "Effect of jute stick charcoal powder on characterization of aluminum metal matrix composite",
+    "authors": [
+      "Md Mahmudul Adil",
+      "Md Mahadi Hassan Parvez",
+      "Mir Mehedi Hassan",
+      "Ridwan Ahmed",
+      "Md Niamul Quader",
+      "Adib Bin Rashid",
+      "Irfan Ahmed"
+    ],
+    "me": "Ridwan Ahmed",
+    "journal": "Results in Engineering",
+    "publisher": "Elsevier",
+    "volume": "22",
+    "article": "101990",
+    "year": 2024,
+    "received": "2024-01-10",
+    "accepted": "2024-03-06",
+    "online": "2024-03-09",
+    "openAccess": "CC BY-NC 4.0",
+    "doi": "https://doi.org/10.1016/j.rineng.2024.101990",
+    "keywords": [
+      "Stir casting",
+      "Jute stick charcoal powder",
+      "Surface roughness",
+      "SEM",
+      "XRD"
+    ],
+    "myRole": {
+      "en": "Methodology, investigation and data curation (CRediT statement of the paper).",
+      "fr": "Méthodologie, investigation et curation des données (déclaration CRediT de l’article).",
+      "bn": "Methodology, investigation and data curation (CRediT statement of the paper)."
+    },
+    "summary": {
+      "en": "The study asks whether charcoal powder made from jute sticks, an agricultural by-product, can serve as a particle reinforcement in aluminium. Two composites (1% and 3% charcoal powder) were stir-cast in AA1100 aluminium and compared on tensile, flexural, impact and hardness behaviour, on microstructure by scanning electron microscopy, on phase content by X-ray diffraction, and on machined surface roughness at three cutting speeds.",
+      "fr": "L’étude examine si une poudre de charbon issue de tiges de jute, sous-produit agricole, peut servir de renfort particulaire dans l’aluminium. Deux composites (1 % et 3 % de poudre de charbon) ont été élaborés par brassage en fonderie dans de l’aluminium AA1100, puis comparés selon leur comportement en traction, flexion, choc et dureté, leur microstructure (microscopie électronique à balayage), leur contenu en phases (diffraction des rayons X) et la rugosité de surface usinée à trois vitesses de coupe.",
+      "bn": "The study asks whether charcoal powder made from jute sticks, an agricultural by-product, can serve as a particle reinforcement in aluminium. Two composites (1% and 3% charcoal powder) were stir-cast in AA1100 aluminium and compared on tensile, flexural, impact and hardness behaviour, on microstructure by scanning electron microscopy, on phase content by X-ray diffraction, and on machined surface roughness at three cutting speeds."
+    },
+    "technical": {
+      "en": "The composite with 1% charcoal powder was stronger in tension than the 3% composite (94.16 versus 68.64 MPa, a 27.1% reduction at 3%), while impact strength and hardness were slightly higher at 3%. SEM images showed micro-cavities around the dispersed particles, which the authors hold responsible for the tensile and flexural behaviour, and an uneven particle distribution attributed to the low particle density and the stirring process. The 3% composite showed lower surface roughness at every cutting speed tested.",
+      "fr": "Le composite à 1 % de poudre de charbon est plus résistant en traction que celui à 3 % (94,16 contre 68,64 MPa, soit une baisse de 27,1 % à 3 %), tandis que la résistance au choc et la dureté sont légèrement supérieures à 3 %. Les images MEB montrent des micro-cavités autour des particules dispersées, que les auteurs tiennent pour responsables du comportement en traction et en flexion, ainsi qu’une répartition inégale des particules attribuée à la faible densité des particules et au procédé de brassage. Le composite à 3 % présente une rugosité de surface plus faible à toutes les vitesses de coupe testées.",
+      "bn": "The composite with 1% charcoal powder was stronger in tension than the 3% composite (94.16 versus 68.64 MPa, a 27.1% reduction at 3%), while impact strength and hardness were slightly higher at 3%. SEM images showed micro-cavities around the dispersed particles, which the authors hold responsible for the tensile and flexural behaviour, and an uneven particle distribution attributed to the low particle density and the stirring process. The 3% composite showed lower surface roughness at every cutting speed tested."
+    },
+    "projectId": "jscp-al-mmc"
+  }
+]

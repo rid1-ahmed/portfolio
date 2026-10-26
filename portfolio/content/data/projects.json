@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "jscp-al-mmc",
+    "level": "project",
+    "status": "published",
+    "featured": true,
+    "featuredOrder": 1,
+    "type": "research",
+    "year": 2024,
+    "institution": "Bangladesh Army University of Science and Technology (BAUST)",
+    "categories": [
+      "materials-composites",
+      "experimental"
+    ],
+    "tags": [
+      "metal-matrix composite",
+      "stir casting",
+      "SEM",
+      "XRD",
+      "mechanical testing",
+      "published"
+    ],
+    "tools": [
+      "Stir casting",
+      "Universal testing machine",
+      "SEM",
+      "XRD",
+      "Rockwell hardness tester",
+      "Charpy impact test"
+    ],
+    "title": {
+      "en": "Jute stick charcoal reinforced aluminium metal-matrix composite",
+      "fr": "Composite à matrice aluminium renforcé par de la poudre de charbon de tige de jute",
+      "bn": "Jute stick charcoal reinforced aluminium metal-matrix composite"
+    },
+    "summary": {
+      "en": "AA1100 aluminium stir-cast with 1% and 3% jute stick charcoal powder and characterised by mechanical testing, SEM, XRD and surface-roughness measurements. Published in Results in Engineering (Elsevier, 2024).",
+      "fr": "Aluminium AA1100 élaboré par brassage en fonderie avec 1 % et 3 % de poudre de charbon de tige de jute, caractérisé par essais mécaniques, MEB, DRX et mesures de rugosité. Publié dans Results in Engineering (Elsevier, 2024).",
+      "bn": "AA1100 aluminium stir-cast with 1% and 3% jute stick charcoal powder and characterised by mechanical testing, SEM, XRD and surface-roughness measurements. Published in Results in Engineering (Elsevier, 2024)."
+    },
+    "contribution": {
+      "en": "Author of the paper. The paper’s CRediT statement credits me with methodology, investigation and data curation.",
+      "fr": "Auteur de l’article. La déclaration CRediT de l’article me crédite de la méthodologie, de l’investigation et de la curation des données.",
+      "bn": "Author of the paper. The paper’s CRediT statement credits me with methodology, investigation and data curation."
+    },
+    "objectives": {
+      "en": "Jute stick charcoal powder (JSCP) had, according to the paper, not yet been studied as a reinforcement for aluminium matrix composites. The work examines how 1% and 3% JSCP change the mechanical properties, microstructure, phase content and machinability of cast AA1100 aluminium.",
+      "fr": "D’après l’article, la poudre de charbon de tige de jute (JSCP) n’avait pas encore été étudiée comme renfort de composites à matrice aluminium. Le travail examine comment 1 % et 3 % de JSCP modifient les propriétés mécaniques, la microstructure, les phases présentes et l’usinabilité de l’aluminium AA1100 coulé.",
+      "bn": "Jute stick charcoal powder (JSCP) had, according to the paper, not yet been studied as a reinforcement for aluminium matrix composites. The work examines how 1% and 3% JSCP change the mechanical properties, microstructure, phase content and machinability of cast AA1100 aluminium."
+    },
+    "methodology": {
+      "en": [
+        "Matrix: commercially available pure cast aluminium (AA1100). Reinforcement: jute stick charcoal powder collected in Jhenaidah, Bangladesh, with 71.86 wt% fixed carbon.",
+        "Fabrication by stir casting: surface oxides removed from the aluminium, JSCP preheated to about 150–200 °C, aluminium melted at 700 °C, stirred at 750 rpm for 15 minutes and poured into a mould. Two composites were produced: Al + 1% JSCP and Al + 3% JSCP.",
+        "Specimens were machined to ASTM standards. Tensile tests used a Shimadzu AGS-X universal testing machine (5 kN, 6 mm/min); three-point flexural tests a Shimadzu UH-F1000KNX (1 mm/min); impact tests a Charpy arrangement; hardness the Rockwell B scale.",
+        "Microstructure was imaged with a TESCAN VEGA SEM and phases were identified with a Rigaku SmartLab SE X-ray diffractometer. Surface roughness was measured after machining at 1000, 2000 and 3000 rev/min."
+      ],
+      "fr": [
+        "Matrice : aluminium de fonderie pur du commerce (AA1100). Renfort : poudre de charbon de tige de jute collectée à Jhenaidah (Bangladesh), contenant 71,86 % en masse de carbone fixe.",
+        "Élaboration par brassage en fonderie : oxydes de surface retirés de l’aluminium, JSCP préchauffée à environ 150–200 °C, aluminium fondu à 700 °C, brassage à 750 tr/min pendant 15 minutes puis coulée en moule. Deux composites ont été produits : Al + 1 % JSCP et Al + 3 % JSCP.",
+        "Les éprouvettes ont été usinées selon des normes ASTM. Les essais de traction ont utilisé une machine d’essais universelle Shimadzu AGS-X (5 kN, 6 mm/min) ; la flexion trois points, une Shimadzu UH-F1000KNX (1 mm/min) ; le choc, un montage Charpy ; la dureté, l’échelle Rockwell B.",
+        "La microstructure a été observée au MEB TESCAN VEGA et les phases identifiées avec un diffractomètre Rigaku SmartLab SE. La rugosité de surface a été mesurée après usinage à 1000, 2000 et 3000 tr/min."
+      ],
+      "bn": [
+        "Matrix: commercially available pure cast aluminium (AA1100). Reinforcement: jute stick charcoal powder collected in Jhenaidah, Bangladesh, with 71.86 wt% fixed carbon.",
+        "Fabrication by stir casting: surface oxides removed from the aluminium, JSCP preheated to about 150–200 °C, aluminium melted at 700 °C, stirred at 750 rpm for 15 minutes and poured into a mould. Two composites were produced: Al + 1% JSCP and Al + 3% JSCP.",
+        "Specimens were machined to ASTM standards. Tensile tests used a Shimadzu AGS-X universal testing machine (5 kN, 6 mm/min); three-point flexural tests a Shimadzu UH-F1000KNX (1 mm/min); impact tests a Charpy arrangement; hardness the Rockwell B scale.",
+        "Microstructure was imaged with a TESCAN VEGA SEM and phases were identified with a Rigaku SmartLab SE X-ray diffractometer. Surface roughness was measured after machining at 1000, 2000 and 3000 rev/min."
+      ]
+    },
+    "results": {
+      "en": [
+        "Ultimate tensile strength fell from 94.16 MPa (1% JSCP) to 68.64 MPa (3% JSCP), a reduction of 27.1%. Flexural strength was nearly unchanged (231.02 and 227.97 MPa).",
+        "Impact strength and Rockwell hardness were slightly higher with 3% JSCP.",
+        "SEM images show micro-cavities around the dispersed particles in both composites, and particles of 4.23–23.15 µm with a non-uniform distribution.",
+        "XRD patterns show aluminium reflections ((111), (200), (220), (311)); the fitted lattice parameter is 4.046 Å for 1% JSCP and 4.031 Å for 3% JSCP.",
+        "Machined surface roughness was lower for the 3% composite at all three cutting speeds, which the authors attribute to less micro-cavity and porosity."
+      ],
+      "fr": [
+        "La résistance à la traction passe de 94,16 MPa (1 % JSCP) à 68,64 MPa (3 % JSCP), soit une baisse de 27,1 %. La résistance en flexion est presque inchangée (231,02 et 227,97 MPa).",
+        "La résistance au choc et la dureté Rockwell sont légèrement supérieures avec 3 % de JSCP.",
+        "Les images MEB montrent des micro-cavités autour des particules dispersées dans les deux composites, et des particules de 4,23 à 23,15 µm réparties de façon non uniforme.",
+        "Les diagrammes DRX montrent les raies de l’aluminium ((111), (200), (220), (311)) ; le paramètre de maille ajusté est de 4,046 Å pour 1 % de JSCP et de 4,031 Å pour 3 %.",
+        "La rugosité de la surface usinée est plus faible pour le composite à 3 % aux trois vitesses de coupe, ce que les auteurs attribuent à une moindre présence de micro-cavités et de porosité."
+      ],
+      "bn": [
+        "Ultimate tensile strength fell from 94.16 MPa (1% JSCP) to 68.64 MPa (3% JSCP), a reduction of 27.1%. Flexural strength was nearly unchanged (231.02 and 227.97 MPa).",
+        "Impact strength and Rockwell hardness were slightly higher with 3% JSCP.",
+        "SEM images show micro-cavities around the dispersed particles in both composites, and particles of 4.23–23.15 µm with a non-uniform distribution.",
+        "XRD patterns show aluminium reflections ((111), (200), (220), (311)); the fitted lattice parameter is 4.046 Å for 1% JSCP and 4.031 Å for 3% JSCP.",
+        "Machined surface roughness was lower for the 3% composite at all three cutting speeds, which the authors attribute to less micro-cavity and porosity."
+      ]
+    },
+    "dataTables": [
+      {
+        "caption": {
+          "en": "Mechanical properties (Table 3 of the paper, mean ± deviation as reported)",
+          "fr": "Propriétés mécaniques (tableau 3 de l’article, moyenne ± écart comme publié)",
+          "bn": "Mechanical properties (Table 3 of the paper, mean ± deviation as reported)"
+        },
+        "head": [
+          {
+            "en": "Property",
+            "fr": "Propriété",
+            "bn": "Property"
+          },
+          "Al + 1% JSCP",
+          "Al + 3% JSCP"
+        ],
+        "rows": [
+          [
+            {
+              "en": "Tensile strength (MPa)",
+              "fr": "Résistance à la traction (MPa)",
+              "bn": "Tensile strength (MPa)"
+            },
+            "94.16 ± 4.87",
+            "68.64 ± 3.79"
+          ],
+          [
+            {
+              "en": "Impact strength (J/cm²)",
+              "fr": "Résilience (J/cm²)",
+              "bn": "Impact strength (J/cm²)"
+            },
+            "7.3 ± 0.173",
+            "7.8 ± 0.25"
+          ],
+          [
+            {
+              "en": "Flexural strength (MPa)",
+              "fr": "Résistance en flexion (MPa)",
+              "bn": "Flexural strength (MPa)"
+            },
+            "231.02 ± 28.5",
+            "227.97 ± 16.29"
+          ],
+          [
+            {
+              "en": "Rockwell hardness number (B scale)",
+              "fr": "Dureté Rockwell (échelle B)",
+              "bn": "Rockwell hardness number (B scale)"
+            },
+            "66 ± 2.0",
+            "68.5 ± 0.5"
+          ]
+        ]
+      },
+      {
+        "caption": {
+          "en": "Surface roughness Ra (µm) versus cutting speed (Table 4 of the paper)",
+          "fr": "Rugosité Ra (µm) en fonction de la vitesse de coupe (tableau 4 de l’article)",
+          "bn": "Surface roughness Ra (µm) versus cutting speed (Table 4 of the paper)"
+        },
+        "head": [
+          {
+            "en": "Cutting speed (rev/min)",
+            "fr": "Vitesse de coupe (tr/min)",
+            "bn": "Cutting speed (rev/min)"
+          },
+          "Al + 1% JSCP",
+          "Al + 3% JSCP"
+        ],
+        "rows": [
+          [
+            "1000",
+            "2.447",
+            "1.122"
+          ],
+          [
+            "2000",
+            "1.786",
+            "0.85"
+          ],
+          [
+            "3000",
+            "0.79",
+            "0.57"
+          ]
+        ]
+      }
+    ],
+    "limitations": {
+      "en": [
+        "Only two reinforcement contents (1% and 3%) were studied, so no trend over a wider range can be drawn.",
+        "The authors report a non-uniform particle distribution and micro-cavities, and suggest that pre-existing strain in the 3% tensile specimens may explain an offset at the start of their stress–strain curve.",
+        "The paper states that data are available on request."
+      ],
+      "fr": [
+        "Seules deux teneurs en renfort (1 % et 3 %) ont été étudiées ; aucune tendance sur une gamme plus large ne peut donc en être tirée.",
+        "Les auteurs signalent une répartition non uniforme des particules et des micro-cavités, et suggèrent qu’une déformation préexistante des éprouvettes à 3 % pourrait expliquer un décalage au début de leur courbe contrainte–déformation.",
+        "L’article indique que les données sont disponibles sur demande."
+      ],
+      "bn": [
+        "Only two reinforcement contents (1% and 3%) were studied, so no trend over a wider range can be drawn.",
+        "The authors report a non-uniform particle distribution and micro-cavities, and suggest that pre-existing strain in the 3% tensile specimens may explain an offset at the start of their stress–strain curve.",
+        "The paper states that data are available on request."
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/images/research/jscp/fig01-stir-casting-schematic.webp",
+        "alt": {
+          "en": "Schematic of the stir casting setup: DC motor, mechanical stirrer, furnace and crucible",
+          "fr": "Schéma du dispositif de brassage en fonderie : moteur à courant continu, agitateur mécanique, four et creuset",
+          "bn": "Schematic of the stir casting setup: DC motor, mechanical stirrer, furnace and crucible"
+        },
+        "caption": {
+          "en": "Stir casting setup (Fig. 1 of the paper).",
+          "fr": "Dispositif de brassage en fonderie (fig. 1 de l’article).",
+          "bn": "Stir casting setup (Fig. 1 of the paper)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig02-aluminium-feedstock-and-samples.webp",
+        "alt": {
+          "en": "Photographs of aluminium scrap used for casting and of the fabricated composite samples",
+          "fr": "Photographies de la ferraille d’aluminium utilisée pour la coulée et des échantillons de composite fabriqués",
+          "bn": "Photographs of aluminium scrap used for casting and of the fabricated composite samples"
+        },
+        "caption": {
+          "en": "(a) Aluminium for casting; (b) fabricated composite samples (Fig. 2).",
+          "fr": "(a) Aluminium pour la coulée ; (b) échantillons de composite fabriqués (fig. 2).",
+          "bn": "(a) Aluminium for casting; (b) fabricated composite samples (Fig. 2)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig03-test-specimens.webp",
+        "alt": {
+          "en": "Tensile, flexural and impact test specimens",
+          "fr": "Éprouvettes de traction, de flexion et de choc",
+          "bn": "Tensile, flexural and impact test specimens"
+        },
+        "caption": {
+          "en": "Specimens prepared to ASTM standards: (a) tensile, (b) flexural, (c) impact (Fig. 3).",
+          "fr": "Éprouvettes préparées selon les normes ASTM : (a) traction, (b) flexion, (c) choc (fig. 3).",
+          "bn": "Specimens prepared to ASTM standards: (a) tensile, (b) flexural, (c) impact (Fig. 3)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig04-tensile-test-setup.webp",
+        "alt": {
+          "en": "Specimen mounted in the Shimadzu universal testing machine for the tensile test",
+          "fr": "Éprouvette montée dans la machine d’essais universelle Shimadzu pour l’essai de traction",
+          "bn": "Specimen mounted in the Shimadzu universal testing machine for the tensile test"
+        },
+        "caption": {
+          "en": "Experimental setup for the tensile test (Fig. 4).",
+          "fr": "Montage expérimental de l’essai de traction (fig. 4).",
+          "bn": "Experimental setup for the tensile test (Fig. 4)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig05-flexural-test-setup.webp",
+        "alt": {
+          "en": "Experimental setup for the three-point flexural test",
+          "fr": "Dispositif expérimental de l’essai de flexion trois points",
+          "bn": "Experimental setup for the three-point flexural test"
+        },
+        "caption": {
+          "en": "Experimental setup for the flexural test (Fig. 5).",
+          "fr": "Montage expérimental de l’essai de flexion (fig. 5).",
+          "bn": "Experimental setup for the flexural test (Fig. 5)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig06-impact-test-setup.webp",
+        "alt": {
+          "en": "Charpy impact test setup with specimen in the fixture",
+          "fr": "Montage de l’essai de choc Charpy avec l’éprouvette dans le support",
+          "bn": "Charpy impact test setup with specimen in the fixture"
+        },
+        "caption": {
+          "en": "Experimental setup for the impact test (Fig. 6).",
+          "fr": "Montage expérimental de l’essai de choc (fig. 6).",
+          "bn": "Experimental setup for the impact test (Fig. 6)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig07-hardness-test-setup.webp",
+        "alt": {
+          "en": "Rockwell hardness tester",
+          "fr": "Duromètre Rockwell",
+          "bn": "Rockwell hardness tester"
+        },
+        "caption": {
+          "en": "Experimental setup for the hardness test (Fig. 7).",
+          "fr": "Montage expérimental de l’essai de dureté (fig. 7).",
+          "bn": "Experimental setup for the hardness test (Fig. 7)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig08-stress-strain-curves.webp",
+        "alt": {
+          "en": "Stress–strain curves for Al + 1% JSCP and Al + 3% JSCP, with the 1% composite reaching a higher peak stress",
+          "fr": "Courbes contrainte–déformation pour Al + 1 % JSCP et Al + 3 % JSCP ; le composite à 1 % atteint une contrainte maximale plus élevée",
+          "bn": "Stress–strain curves for Al + 1% JSCP and Al + 3% JSCP, with the 1% composite reaching a higher peak stress"
+        },
+        "caption": {
+          "en": "Stress versus strain, Al + 1% JSCP and Al + 3% JSCP (Fig. 8).",
+          "fr": "Contrainte en fonction de la déformation, Al + 1 % JSCP et Al + 3 % JSCP (fig. 8).",
+          "bn": "Stress versus strain, Al + 1% JSCP and Al + 3% JSCP (Fig. 8)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0",
+        "highlight": true
+      },
+      {
+        "src": "assets/images/research/jscp/fig09-flexural-properties.webp",
+        "alt": {
+          "en": "Bar chart of flexural strength and flexural modulus with error bars for both composites",
+          "fr": "Histogramme de la résistance et du module en flexion avec barres d’erreur pour les deux composites",
+          "bn": "Bar chart of flexural strength and flexural modulus with error bars for both composites"
+        },
+        "caption": {
+          "en": "Flexural strength and modulus (Fig. 9).",
+          "fr": "Résistance et module en flexion (fig. 9).",
+          "bn": "Flexural strength and modulus (Fig. 9)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig10-impact-strength-energy.webp",
+        "alt": {
+          "en": "Bar chart of impact strength and impact energy for both composites",
+          "fr": "Histogramme de la résistance et de l’énergie au choc pour les deux composites",
+          "bn": "Bar chart of impact strength and impact energy for both composites"
+        },
+        "caption": {
+          "en": "Impact strength and impact energy (Fig. 10).",
+          "fr": "Résistance et énergie au choc (fig. 10).",
+          "bn": "Impact strength and impact energy (Fig. 10)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig11-rockwell-hardness.webp",
+        "alt": {
+          "en": "Bar chart of Rockwell hardness number for both composites",
+          "fr": "Histogramme de la dureté Rockwell pour les deux composites",
+          "bn": "Bar chart of Rockwell hardness number for both composites"
+        },
+        "caption": {
+          "en": "Rockwell hardness number (Fig. 11).",
+          "fr": "Dureté Rockwell (fig. 11).",
+          "bn": "Rockwell hardness number (Fig. 11)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig12-sem-al-1pct-jscp.webp",
+        "alt": {
+          "en": "SEM micrographs of Al + 1% JSCP at 200x and 500x with marked charcoal particles",
+          "fr": "Micrographies MEB de Al + 1 % JSCP à 200x et 500x avec particules de charbon repérées",
+          "bn": "SEM micrographs of Al + 1% JSCP at 200x and 500x with marked charcoal particles"
+        },
+        "caption": {
+          "en": "SEM of Al + 1% JSCP: (a) 200x, (b) 500x (Fig. 12).",
+          "fr": "MEB de Al + 1 % JSCP : (a) 200x, (b) 500x (fig. 12).",
+          "bn": "SEM of Al + 1% JSCP: (a) 200x, (b) 500x (Fig. 12)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0",
+        "highlight": true
+      },
+      {
+        "src": "assets/images/research/jscp/fig13-sem-al-3pct-jscp.webp",
+        "alt": {
+          "en": "SEM micrographs of Al + 3% JSCP at 200x and 500x showing particle dispersion and micro-cavities",
+          "fr": "Micrographies MEB de Al + 3 % JSCP à 200x et 500x montrant la dispersion des particules et les micro-cavités",
+          "bn": "SEM micrographs of Al + 3% JSCP at 200x and 500x showing particle dispersion and micro-cavities"
+        },
+        "caption": {
+          "en": "SEM of Al + 3% JSCP: (a) 200x, (b) 500x (Fig. 13).",
+          "fr": "MEB de Al + 3 % JSCP : (a) 200x, (b) 500x (fig. 13).",
+          "bn": "SEM of Al + 3% JSCP: (a) 200x, (b) 500x (Fig. 13)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0",
+        "highlight": true
+      },
+      {
+        "src": "assets/images/research/jscp/fig14-xrd-patterns.webp",
+        "alt": {
+          "en": "XRD patterns of the two composites with indexed aluminium peaks",
+          "fr": "Diagrammes DRX des deux composites avec raies de l’aluminium indexées",
+          "bn": "XRD patterns of the two composites with indexed aluminium peaks"
+        },
+        "caption": {
+          "en": "XRD patterns: (a) Al + 1% JSCP, (b) Al + 3% JSCP (Fig. 14).",
+          "fr": "Diagrammes DRX : (a) Al + 1 % JSCP, (b) Al + 3 % JSCP (fig. 14).",
+          "bn": "XRD patterns: (a) Al + 1% JSCP, (b) Al + 3% JSCP (Fig. 14)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0",
+        "highlight": true
+      },
+      {
+        "src": "assets/images/research/jscp/fig15-surface-roughness.webp",
+        "alt": {
+          "en": "Surface roughness versus cutting speed for both composites",
+          "fr": "Rugosité de surface en fonction de la vitesse de coupe pour les deux composites",
+          "bn": "Surface roughness versus cutting speed for both composites"
+        },
+        "caption": {
+          "en": "Surface roughness at different cutting speeds (Fig. 15).",
+          "fr": "Rugosité de surface à différentes vitesses de coupe (fig. 15).",
+          "bn": "Surface roughness at different cutting speeds (Fig. 15)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      },
+      {
+        "src": "assets/images/research/jscp/fig16-machined-surface-micrographs.webp",
+        "alt": {
+          "en": "Optical micrographs of machined surfaces at 1000, 2000 and 3000 rev/min for both composites",
+          "fr": "Micrographies optiques des surfaces usinées à 1000, 2000 et 3000 tr/min pour les deux composites",
+          "bn": "Optical micrographs of machined surfaces at 1000, 2000 and 3000 rev/min for both composites"
+        },
+        "caption": {
+          "en": "Machined surfaces: Al + 1% JSCP (a–c) and Al + 3% JSCP (d–f) at 1000, 2000 and 3000 rpm (Fig. 16).",
+          "fr": "Surfaces usinées : Al + 1 % JSCP (a–c) et Al + 3 % JSCP (d–f) à 1000, 2000 et 3000 tr/min (fig. 16).",
+          "bn": "Machined surfaces: Al + 1% JSCP (a–c) and Al + 3% JSCP (d–f) at 1000, 2000 and 3000 rpm (Fig. 16)."
+        },
+        "credit": "Adil et al., Results in Engineering 22 (2024) 101990, CC BY-NC 4.0"
+      }
+    ],
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1016/j.rineng.2024.101990",
+        "label": {
+          "en": "Published paper (DOI)",
+          "fr": "Article publié (DOI)",
+          "bn": "Published paper (DOI)"
+        }
+      }
+    ],
+    "related": [
+      "annular-cylinder-fem"
+    ],
+    "thumb": "assets/images/research/jscp/fig12-sem-al-1pct-jscp.webp",
+    "thumbAlt": {
+      "en": "SEM micrograph of the Al + 1% JSCP composite",
+      "fr": "Micrographie MEB du composite Al + 1 % JSCP",
+      "bn": "SEM micrograph of the Al + 1% JSCP composite"
+    }
+  },
+  {
+    "id": "annular-cylinder-fem",
+    "level": "project",
+    "status": "published",
+    "featured": true,
+    "featuredOrder": 2,
+    "type": "university_project",
+    "year": 2026,
+    "date": "2026-05",
+    "institution": "Conservatoire National des Arts et Métiers (CNAM), Paris",
+    "course": {
+      "en": "Finite Element Method (M1)",
+      "fr": "Méthode des éléments finis (M1)",
+      "bn": "Finite Element Method (M1)"
+    },
+    "supervisor": "Prof. Christophe Hoareau",
+    "group": {
+      "size": 2
+    },
+    "categories": [
+      "structural-mechanics",
+      "fem",
+      "scientific-programming"
+    ],
+    "tags": [
+      "Lamé",
+      "plane strain",
+      "QUAD4",
+      "QUAD8",
+      "mesh convergence",
+      "verification"
+    ],
+    "tools": [
+      "MSC Patran",
+      "MSC Nastran",
+      "MATLAB",
+      "LaTeX"
+    ],
+    "title": {
+      "en": "Finite-element analysis of a pressurised thick-walled cylinder (Lamé benchmark)",
+      "fr": "Analyse par éléments finis d’un cylindre épais sous pression (benchmark de Lamé)",
+      "bn": "Finite-element analysis of a pressurised thick-walled cylinder (Lamé benchmark)"
+    },
+    "summary": {
+      "en": "Quarter-symmetry plane-strain model of an annular ring under internal and external pressure, solved with Patran/Nastran (QUAD4 and QUAD8) and a custom MATLAB QUAD4 code, and checked against the Lamé analytical solution over three mesh densities.",
+      "fr": "Modèle en déformation plane d’un anneau sous pressions interne et externe, avec symétrie par quart, résolu avec Patran/Nastran (QUAD4 et QUAD8) et un code MATLAB QUAD4 personnel, puis comparé à la solution analytique de Lamé sur trois maillages.",
+      "bn": "Quarter-symmetry plane-strain model of an annular ring under internal and external pressure, solved with Patran/Nastran (QUAD4 and QUAD8) and a custom MATLAB QUAD4 code, and checked against the Lamé analytical solution over three mesh densities."
+    },
+    "description": {
+      "en": "A joint M1 project (two students), written up as a LaTeX report in May 2026. The report states that an AI language model (DeepSeek) was used as a troubleshooting assistant for Patran/Nastran set-up, MATLAB guidance and LaTeX structure.",
+      "fr": "Projet de M1 réalisé en binôme et rédigé en LaTeX en mai 2026. Le rapport précise qu’un modèle de langage (DeepSeek) a servi d’assistant de dépannage pour la mise en données Patran/Nastran, l’aide à la programmation MATLAB et la structuration du rapport.",
+      "bn": "A joint M1 project (two students), written up as a LaTeX report in May 2026. The report states that an AI language model (DeepSeek) was used as a troubleshooting assistant for Patran/Nastran set-up, MATLAB guidance and LaTeX structure."
+    },
+    "objectives": {
+      "en": "Obtain reliable numerical solutions for a classical benchmark, compare commercial-solver and in-house results with the analytical Lamé solution, and study convergence under mesh refinement.",
+      "fr": "Obtenir des solutions numériques fiables pour un benchmark classique, comparer les résultats du solveur commercial et d’un code personnel à la solution analytique de Lamé, et étudier la convergence par raffinement du maillage.",
+      "bn": "Obtain reliable numerical solutions for a classical benchmark, compare commercial-solver and in-house results with the analytical Lamé solution, and study convergence under mesh refinement."
+    },
+    "methodology": {
+      "en": [
+        "Geometry: annulus with inner radius 10 mm and outer radius 20 mm, plane strain, quarter symmetry with symmetry conditions on the two straight edges.",
+        "Loading and material: internal pressure 1000 MPa, external pressure 100 MPa, linear elastic isotropic material with E = 70 GPa and ν = 0.3. The analytical hoop stress at the inner radius is 1400 MPa.",
+        "Meshes: three structured meshes (element sizes 2.0, 1.0 and 0.5 mm) with QUAD4 and QUAD8 elements in Patran/Nastran; a MATLAB code assembling QUAD4 stiffness, pressure loads and stress recovery.",
+        "Strong and weak forms of the axisymmetric equilibrium problem were written out in the report, and relative errors were computed against the Lamé solution."
+      ],
+      "fr": [
+        "Géométrie : anneau de rayon intérieur 10 mm et de rayon extérieur 20 mm, déformation plane, symétrie par quart avec conditions de symétrie sur les deux bords rectilignes.",
+        "Chargement et matériau : pression interne 1000 MPa, pression externe 100 MPa, matériau élastique linéaire isotrope avec E = 70 GPa et ν = 0,3. La contrainte circonférentielle analytique au rayon intérieur vaut 1400 MPa.",
+        "Maillages : trois maillages structurés (tailles d’élément 2,0 ; 1,0 et 0,5 mm) en QUAD4 et QUAD8 sous Patran/Nastran ; un code MATLAB assemblant la raideur QUAD4, les charges de pression et la récupération des contraintes.",
+        "Les formes forte et faible du problème d’équilibre axisymétrique sont écrites dans le rapport, et les erreurs relatives sont calculées par rapport à la solution de Lamé."
+      ],
+      "bn": [
+        "Geometry: annulus with inner radius 10 mm and outer radius 20 mm, plane strain, quarter symmetry with symmetry conditions on the two straight edges.",
+        "Loading and material: internal pressure 1000 MPa, external pressure 100 MPa, linear elastic isotropic material with E = 70 GPa and ν = 0.3. The analytical hoop stress at the inner radius is 1400 MPa.",
+        "Meshes: three structured meshes (element sizes 2.0, 1.0 and 0.5 mm) with QUAD4 and QUAD8 elements in Patran/Nastran; a MATLAB code assembling QUAD4 stiffness, pressure loads and stress recovery.",
+        "Strong and weak forms of the axisymmetric equilibrium problem were written out in the report, and relative errors were computed against the Lamé solution."
+      ]
+    },
+    "results": {
+      "en": [
+        "Hoop stress at the inner radius converged towards the analytical 1400 MPa as the mesh was refined: the error fell from about 17% on the coarsest mesh to about 5% on the finest, for both QUAD4 and QUAD8.",
+        "Radial displacement, read from the Nastran output of all six runs, agrees with the Lamé solution: on the interior nodes of each circle the QUAD4 error is −0.8% (coarse), −0.2% (fine) and −0.05% (very fine) at r = 10 mm, and −0.7%, −0.2% and −0.05% at r = 20 mm. QUAD8 matches the analytical values to within 0.01% on every mesh.",
+        "QUAD8 was slightly more accurate than QUAD4 on the coarse and fine meshes for hoop stress, and much more accurate for displacement."
+      ],
+      "fr": [
+        "La contrainte circonférentielle au rayon intérieur converge vers la valeur analytique de 1400 MPa avec le raffinement : l’erreur passe d’environ 17 % sur le maillage le plus grossier à environ 5 % sur le plus fin, en QUAD4 comme en QUAD8.",
+        "Le déplacement radial, lu dans les fichiers de sortie Nastran des six calculs, est en accord avec la solution de Lamé : sur les nœuds intérieurs de chaque cercle, l’erreur du QUAD4 est de −0,8 % (grossier), −0,2 % (fin) et −0,05 % (très fin) en r = 10 mm, et de −0,7 %, −0,2 % et −0,05 % en r = 20 mm. Le QUAD8 coïncide avec les valeurs analytiques à moins de 0,01 % sur tous les maillages.",
+        "Le QUAD8 est légèrement plus précis que le QUAD4 sur les maillages grossier et intermédiaire pour la contrainte circonférentielle, et nettement plus précis pour le déplacement."
+      ],
+      "bn": [
+        "Hoop stress at the inner radius converged towards the analytical 1400 MPa as the mesh was refined: the error fell from about 17% on the coarsest mesh to about 5% on the finest, for both QUAD4 and QUAD8.",
+        "Radial displacement, read from the Nastran output of all six runs, agrees with the Lamé solution: on the interior nodes of each circle the QUAD4 error is −0.8% (coarse), −0.2% (fine) and −0.05% (very fine) at r = 10 mm, and −0.7%, −0.2% and −0.05% at r = 20 mm. QUAD8 matches the analytical values to within 0.01% on every mesh.",
+        "QUAD8 was slightly more accurate than QUAD4 on the coarse and fine meshes for hoop stress, and much more accurate for displacement."
+      ]
+    },
+    "dataTables": [
+      {
+        "caption": {
+          "en": "Hoop stress at r = 10 mm (analytical value 1400 MPa), from the submitted report",
+          "fr": "Contrainte circonférentielle en r = 10 mm (valeur analytique 1400 MPa), d’après le rapport remis",
+          "bn": "Hoop stress at r = 10 mm (analytical value 1400 MPa), from the submitted report"
+        },
+        "head": [
+          {
+            "en": "Mesh size (mm)",
+            "fr": "Taille de maille (mm)",
+            "bn": "Mesh size (mm)"
+          },
+          "QUAD4 (MPa)",
+          "QUAD4 error",
+          "QUAD8 (MPa)",
+          "QUAD8 error"
+        ],
+        "rows": [
+          [
+            "2.0",
+            "1153.0",
+            "17.6%",
+            "1162.1",
+            "17.0%"
+          ],
+          [
+            "1.0",
+            "1264.8",
+            "9.7%",
+            "1267.3",
+            "9.5%"
+          ],
+          [
+            "0.5",
+            "1328.9",
+            "5.1%",
+            "1329.6",
+            "5.0%"
+          ]
+        ]
+      },
+      {
+        "caption": {
+          "en": "Radial displacement u_r in mm (error against the Lamé solution), read from the Nastran output; analytical values 0.23771 mm at r = 10 mm and 0.14114 mm at r = 20 mm",
+          "fr": "Déplacement radial u_r en mm (erreur par rapport à la solution de Lamé), lu dans la sortie Nastran ; valeurs analytiques 0,23771 mm en r = 10 mm et 0,14114 mm en r = 20 mm",
+          "bn": "Radial displacement u_r in mm (error against the Lamé solution), read from the Nastran output; analytical values 0.23771 mm at r = 10 mm and 0.14114 mm at r = 20 mm"
+        },
+        "head": [
+          {
+            "en": "Mesh",
+            "fr": "Maillage",
+            "bn": "Mesh"
+          },
+          "QUAD4, r = 10",
+          "QUAD4, r = 20",
+          "QUAD8, r = 10",
+          "QUAD8, r = 20"
+        ],
+        "rows": [
+          [
+            {
+              "en": "Coarse",
+              "fr": "Grossier",
+              "bn": "Coarse"
+            },
+            "0.23572 (−0.84%)",
+            "0.14014 (−0.71%)",
+            "0.23772 (0.00%)",
+            "0.14114 (0.00%)"
+          ],
+          [
+            {
+              "en": "Fine",
+              "fr": "Fin",
+              "bn": "Fine"
+            },
+            "0.23720 (−0.22%)",
+            "0.14089 (−0.18%)",
+            "0.23771 (0.00%)",
+            "0.14114 (0.00%)"
+          ],
+          [
+            {
+              "en": "Very fine",
+              "fr": "Très fin",
+              "bn": "Very fine"
+            },
+            "0.23759 (−0.05%)",
+            "0.14108 (−0.05%)",
+            "0.23771 (0.00%)",
+            "0.14114 (0.00%)"
+          ]
+        ]
+      }
+    ],
+    "limitations": {
+      "en": [
+        "Status: coursework report as submitted in May 2026. Its radial-displacement comparison did not agree with the analytical value because of the radius at which the displacement was read; the displacement values shown here were re-extracted from the same Nastran output files.",
+        "The two nodes on the symmetry axes are excluded from the displacement averages because their output is expressed in a local system.",
+        "The MATLAB QUAD4 code did not reproduce the benchmark: its hoop stress stayed near 467 MPa regardless of mesh and was not used for conclusions. The report says so openly."
+      ],
+      "fr": [
+        "Statut : rapport de cours tel que remis en mai 2026. Sa comparaison du déplacement radial ne concordait pas avec la valeur analytique en raison du rayon auquel le déplacement avait été lu ; les valeurs de déplacement présentées ici ont été relues dans les mêmes fichiers de sortie Nastran.",
+        "Les deux nœuds situés sur les axes de symétrie sont exclus des moyennes de déplacement, car leur sortie est exprimée dans un repère local.",
+        "Le code MATLAB QUAD4 n’a pas reproduit le benchmark : sa contrainte circonférentielle reste proche de 467 MPa quel que soit le maillage, et il n’a pas servi aux conclusions. Le rapport le signale ouvertement."
+      ],
+      "bn": [
+        "Status: coursework report as submitted in May 2026. Its radial-displacement comparison did not agree with the analytical value because of the radius at which the displacement was read; the displacement values shown here were re-extracted from the same Nastran output files.",
+        "The two nodes on the symmetry axes are excluded from the displacement averages because their output is expressed in a local system.",
+        "The MATLAB QUAD4 code did not reproduce the benchmark: its hoop stress stayed near 467 MPa regardless of mesh and was not used for conclusions. The report says so openly."
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/images/projects/annular-cylinder-fem/lame-analytical-solution.webp",
+        "alt": {
+          "en": "Plots of the analytical Lamé radial stress, hoop stress and radial displacement through the wall",
+          "fr": "Courbes de la contrainte radiale, de la contrainte circonférentielle et du déplacement radial analytiques de Lamé dans l’épaisseur",
+          "bn": "Plots of the analytical Lamé radial stress, hoop stress and radial displacement through the wall"
+        },
+        "caption": {
+          "en": "Analytical Lamé solution for the plane-strain annulus.",
+          "fr": "Solution analytique de Lamé pour l’anneau en déformation plane.",
+          "bn": "Analytical Lamé solution for the plane-strain annulus."
+        }
+      },
+      {
+        "src": "assets/images/projects/annular-cylinder-fem/quad4-vfine-hoop-stress.webp",
+        "alt": {
+          "en": "Fringe plot of hoop stress on the quarter annulus",
+          "fr": "Carte de contrainte circonférentielle sur le quart d’anneau",
+          "bn": "Fringe plot of hoop stress on the quarter annulus"
+        },
+        "caption": {
+          "en": "Hoop stress, QUAD4 very fine mesh (Patran, cylindrical coordinates).",
+          "fr": "Contrainte circonférentielle, maillage QUAD4 très fin (Patran, coordonnées cylindriques).",
+          "bn": "Hoop stress, QUAD4 very fine mesh (Patran, cylindrical coordinates)."
+        }
+      },
+      {
+        "src": "assets/images/projects/annular-cylinder-fem/quad4-vfine-radial-stress.webp",
+        "alt": {
+          "en": "Fringe plot of radial stress on the quarter annulus",
+          "fr": "Carte de contrainte radiale sur le quart d’anneau",
+          "bn": "Fringe plot of radial stress on the quarter annulus"
+        },
+        "caption": {
+          "en": "Radial stress, QUAD4 very fine mesh.",
+          "fr": "Contrainte radiale, maillage QUAD4 très fin.",
+          "bn": "Radial stress, QUAD4 very fine mesh."
+        }
+      },
+      {
+        "src": "assets/images/projects/annular-cylinder-fem/quad4-vfine-radial-displacement.webp",
+        "alt": {
+          "en": "Fringe plot of radial displacement on the quarter annulus",
+          "fr": "Carte de déplacement radial sur le quart d’anneau",
+          "bn": "Fringe plot of radial displacement on the quarter annulus"
+        },
+        "caption": {
+          "en": "Radial displacement, QUAD4 very fine mesh.",
+          "fr": "Déplacement radial, maillage QUAD4 très fin.",
+          "bn": "Radial displacement, QUAD4 very fine mesh."
+        }
+      },
+      {
+        "src": "assets/images/projects/annular-cylinder-fem/hoop-stress-analytical-vs-fem.webp",
+        "alt": {
+          "en": "Hoop stress along the radius: analytical curve and finite-element results",
+          "fr": "Contrainte circonférentielle le long du rayon : courbe analytique et résultats éléments finis",
+          "bn": "Hoop stress along the radius: analytical curve and finite-element results"
+        },
+        "caption": {
+          "en": "Hoop stress along the radius, analytical curve against the finest meshes.",
+          "fr": "Contrainte circonférentielle le long du rayon : courbe analytique et maillages les plus fins.",
+          "bn": "Hoop stress along the radius, analytical curve against the finest meshes."
+        }
+      },
+      {
+        "src": "assets/images/projects/annular-cylinder-fem/convergence-hoop-stress.webp",
+        "alt": {
+          "en": "Log–log plot of hoop-stress relative error against mesh size",
+          "fr": "Courbe log–log de l’erreur relative sur la contrainte circonférentielle en fonction de la taille de maille",
+          "bn": "Log–log plot of hoop-stress relative error against mesh size"
+        },
+        "caption": {
+          "en": "Relative error of the hoop stress at the inner radius against mesh size.",
+          "fr": "Erreur relative sur la contrainte circonférentielle au rayon intérieur en fonction de la taille de maille.",
+          "bn": "Relative error of the hoop stress at the inner radius against mesh size."
+        }
+      }
+    ],
+    "related": [
+      "jscp-al-mmc",
+      "composite-structures-lab-1"
+    ],
+    "thumb": "assets/images/projects/annular-cylinder-fem/quad4-vfine-hoop-stress.webp",
+    "thumbAlt": {
+      "en": "Hoop-stress fringe plot on the quarter annulus",
+      "fr": "Carte de contrainte circonférentielle sur le quart d’anneau",
+      "bn": "Hoop-stress fringe plot on the quarter annulus"
+    }
+  },
+  {
+    "id": "wind-turbine-notch",
+    "level": "project",
+    "status": "published",
+    "featured": false,
+    "year": null,
+    "categories": [
+      "structural-mechanics",
+      "fem"
+    ],
+    "tags": [
+      "wind turbine",
+      "notch",
+      "stress concentration",
+      "HAWT",
+      "VAWT"
+    ],
+    "tools": [
+      "ANSYS"
+    ],
+    "title": {
+      "en": "Notch effect simulation on wind turbine blades (HAWT and VAWT)",
+      "fr": "Simulation de l’effet d’entaille sur des pales d’éoliennes (HAWT et VAWT)",
+      "bn": "Notch effect simulation on wind turbine blades (HAWT and VAWT)"
+    },
+    "summary": {
+      "en": "ANSYS simulation of the structural effect of notches on horizontal- and vertical-axis wind turbine blades, evaluating stress concentration and failure behaviour.",
+      "fr": "Simulation sous ANSYS de l’effet structural d’entailles sur des pales d’éoliennes à axe horizontal et à axe vertical, évaluant la concentration de contraintes et le comportement à la rupture.",
+      "bn": "ANSYS simulation of the structural effect of notches on horizontal- and vertical-axis wind turbine blades, evaluating stress concentration and failure behaviour."
+    }
+  },
+  {
+    "id": "desktop-wind-tunnel",
+    "level": "project",
+    "status": "published",
+    "featured": false,
+    "year": null,
+    "categories": [
+      "experimental",
+      "design-robotics"
+    ],
+    "tags": [
+      "wind tunnel",
+      "aerodynamics",
+      "design",
+      "fabrication"
+    ],
+    "tools": [],
+    "title": {
+      "en": "Open-channel desktop wind tunnel",
+      "fr": "Soufflerie de bureau à veine ouverte",
+      "bn": "Open-channel desktop wind tunnel"
+    },
+    "summary": {
+      "en": "Design and construction of a desktop-scale open-channel wind tunnel for aerodynamic testing and demonstration.",
+      "fr": "Conception et construction d’une soufflerie de bureau à veine ouverte pour des essais et des démonstrations d’aérodynamique.",
+      "bn": "Design and construction of a desktop-scale open-channel wind tunnel for aerodynamic testing and demonstration."
+    },
+    "thumb": "assets/images/projects/desktop-wind-tunnel/test-section-with-model-car.webp",
+    "thumbAlt": {
+      "en": "Desktop wind tunnel with a model car in the test section",
+      "fr": "Soufflerie de bureau avec une voiture miniature dans la veine d’essai",
+      "bn": "Desktop wind tunnel with a model car in the test section"
+    },
+    "images": [
+      {
+        "src": "assets/images/projects/desktop-wind-tunnel/test-section-with-model-car.webp",
+        "alt": {
+          "en": "Photograph of the desktop wind tunnel: a model car sits in the transparent test section, with a fan at the right and a coloured cellular element at the left",
+          "fr": "Photographie de la soufflerie de bureau : une voiture miniature est placée dans la veine d’essai transparente, avec un ventilateur à droite et un élément alvéolaire coloré à gauche",
+          "bn": "Photograph of the desktop wind tunnel: a model car sits in the transparent test section, with a fan at the right and a coloured cellular element at the left"
+        },
+        "caption": {
+          "en": "Test section of the desktop open-channel wind tunnel with a model car.",
+          "fr": "Veine d’essai de la soufflerie de bureau à veine ouverte, avec une voiture miniature.",
+          "bn": "Test section of the desktop open-channel wind tunnel with a model car."
+        }
+      }
+    ]
+  },
+  {
+    "id": "solidworks-models",
+    "level": "project",
+    "status": "published",
+    "featured": false,
+    "year": null,
+    "categories": [
+      "design-robotics"
+    ],
+    "tags": [
+      "CAD",
+      "3D modelling",
+      "rendering"
+    ],
+    "tools": [
+      "SolidWorks"
+    ],
+    "thumb": "assets/images/projects/cad-models/uav-render.webp",
+    "thumbAlt": {
+      "en": "Rendered model of a fixed-wing unmanned aircraft",
+      "fr": "Rendu d’un modèle d’aéronef sans pilote à voilure fixe",
+      "bn": "Rendered model of a fixed-wing unmanned aircraft"
+    },
+    "title": {
+      "en": "SolidWorks 3D models and renders",
+      "fr": "Modèles 3D et rendus SolidWorks",
+      "bn": "SolidWorks 3D models and renders"
+    },
+    "summary": {
+      "en": "A selection of 3D models I designed in SolidWorks and rendered: a fixed-wing unmanned aircraft, a four-engine spacecraft and a spherical capsule.",
+      "fr": "Une sélection de modèles 3D que j’ai conçus sous SolidWorks et rendus : un aéronef sans pilote à voilure fixe, un vaisseau spatial à quatre moteurs et une capsule sphérique.",
+      "bn": "A selection of 3D models I designed in SolidWorks and rendered: a fixed-wing unmanned aircraft, a four-engine spacecraft and a spherical capsule."
+    },
+    "description": {
+      "en": "These are visual design and modelling exercises. They are shown as renders only: no loads, analysis or test results are claimed for them.",
+      "fr": "Ce sont des exercices de conception et de modélisation visuelle, présentés uniquement sous forme de rendus : aucune charge, analyse ou résultat d’essai n’est revendiqué.",
+      "bn": "These are visual design and modelling exercises. They are shown as renders only: no loads, analysis or test results are claimed for them."
+    },
+    "images": [
+      {
+        "src": "assets/images/projects/cad-models/uav-render.webp",
+        "alt": {
+          "en": "Rendered model of a fixed-wing unmanned aircraft with a long wing, tail, propeller and a crest on the fuselage, on a grey background",
+          "fr": "Rendu d’un aéronef sans pilote à voilure fixe avec longue aile, empennage, hélice et un écusson sur le fuselage, sur fond gris",
+          "bn": "Rendered model of a fixed-wing unmanned aircraft with a long wing, tail, propeller and a crest on the fuselage, on a grey background"
+        },
+        "caption": {
+          "en": "Fixed-wing unmanned aircraft model (SolidWorks render).",
+          "fr": "Modèle d’aéronef sans pilote à voilure fixe (rendu SolidWorks).",
+          "bn": "Fixed-wing unmanned aircraft model (SolidWorks render)."
+        }
+      },
+      {
+        "src": "assets/images/projects/cad-models/spacecraft-render.webp",
+        "alt": {
+          "en": "Rendered model of a red and white spacecraft with four engines and four wings against a star field",
+          "fr": "Rendu d’un vaisseau spatial rouge et blanc à quatre moteurs et quatre ailes sur fond d’étoiles",
+          "bn": "Rendered model of a red and white spacecraft with four engines and four wings against a star field"
+        },
+        "caption": {
+          "en": "Four-engine spacecraft model (SolidWorks render, star-field backdrop).",
+          "fr": "Modèle de vaisseau spatial à quatre moteurs (rendu SolidWorks, fond d’étoiles).",
+          "bn": "Four-engine spacecraft model (SolidWorks render, star-field backdrop)."
+        }
+      },
+      {
+        "src": "assets/images/projects/cad-models/capsule-render.webp",
+        "alt": {
+          "en": "Rendered model of a red and black sphere with a white circular button on a teal reflective surface",
+          "fr": "Rendu d’une sphère rouge et noire avec un bouton circulaire blanc sur une surface turquoise réfléchissante",
+          "bn": "Rendered model of a red and black sphere with a white circular button on a teal reflective surface"
+        },
+        "caption": {
+          "en": "Spherical capsule model (SolidWorks render).",
+          "fr": "Modèle de capsule sphérique (rendu SolidWorks).",
+          "bn": "Spherical capsule model (SolidWorks render)."
+        }
+      }
+    ]
+  },
+  {
+    "id": "firefighting-robot",
+    "level": "project",
+    "status": "published",
+    "featured": false,
+    "year": null,
+    "type": "university_project",
+    "categories": [
+      "design-robotics"
+    ],
+    "tags": [
+      "robotics",
+      "IR sensors",
+      "autonomous"
+    ],
+    "tools": [],
+    "title": {
+      "en": "Small-scale autonomous firefighting robot",
+      "fr": "Petit robot autonome de lutte contre l’incendie",
+      "bn": "Small-scale autonomous firefighting robot"
+    },
+    "summary": {
+      "en": "Infrared-sensor-based autonomous robot for fire detection and response, built for a university robotics project.",
+      "fr": "Robot autonome à capteurs infrarouges pour la détection d’un feu et la réaction, réalisé dans le cadre d’un projet universitaire de robotique.",
+      "bn": "Infrared-sensor-based autonomous robot for fire detection and response, built for a university robotics project."
+    }
+  },
+  {
+    "id": "trust-region-mini-project",
+    "level": "coursework",
+    "status": "published",
+    "type": "coursework",
+    "year": null,
+    "group": {
+      "size": 2
+    },
+    "institution": "Conservatoire National des Arts et Métiers (CNAM), Paris",
+    "categories": [
+      "optimisation",
+      "numerical-methods",
+      "scientific-programming"
+    ],
+    "tags": [
+      "trust region",
+      "Newton",
+      "Rosenbrock",
+      "Rastrigin",
+      "Jupyter"
+    ],
+    "tools": [
+      "Python",
+      "NumPy",
+      "Matplotlib",
+      "Jupyter"
+    ],
+    "title": {
+      "en": "Trust-region method for unconstrained optimisation",
+      "fr": "Méthode de région de confiance pour l’optimisation sans contrainte",
+      "bn": "Trust-region method for unconstrained optimisation"
+    },
+    "summary": {
+      "en": "Python notebook implementing a trust-region method with analytical gradients and Hessians and testing it on six one- and two-dimensional functions (cubic, Rosenbrock, Rastrigin).",
+      "fr": "Notebook Python implémentant une méthode de région de confiance avec gradients et hessiennes analytiques, testée sur six fonctions en une et deux dimensions (cubique, Rosenbrock, Rastrigin).",
+      "bn": "Python notebook implementing a trust-region method with analytical gradients and Hessians and testing it on six one- and two-dimensional functions (cubic, Rosenbrock, Rastrigin)."
+    },
+    "methodology": {
+      "en": [
+        "Quadratic model of the objective in a ball of radius Δ; step from a Newton step when suitable, otherwise from a diagonal Hessian shift found by bisection; radius adapted from the ratio of actual to predicted decrease.",
+        "Convergence monitored through the objective value and the gradient norm (log scale). Only NumPy and Matplotlib are used."
+      ],
+      "fr": [
+        "Modèle quadratique de la fonction objectif dans une boule de rayon Δ ; pas de Newton lorsqu’il convient, sinon décalage diagonal de la hessienne déterminé par dichotomie ; rayon adapté d’après le rapport entre diminution réelle et prédite.",
+        "La convergence est suivie par la valeur de l’objectif et la norme du gradient (échelle logarithmique). Seuls NumPy et Matplotlib sont utilisés."
+      ],
+      "bn": [
+        "Quadratic model of the objective in a ball of radius Δ; step from a Newton step when suitable, otherwise from a diagonal Hessian shift found by bisection; radius adapted from the ratio of actual to predicted decrease.",
+        "Convergence monitored through the objective value and the gradient norm (log scale). Only NumPy and Matplotlib are used."
+      ]
+    },
+    "results": {
+      "en": "The notebook reports convergence to the local minimum of the cubic functions, to the minimum at (1, 1) of the 2D Rosenbrock function, and to local minima of the Rastrigin functions, whose result depends on the starting point.",
+      "fr": "Le notebook rapporte la convergence vers le minimum local des fonctions cubiques, vers le minimum en (1, 1) de la fonction de Rosenbrock 2D, et vers des minima locaux des fonctions de Rastrigin, dont le résultat dépend du point de départ.",
+      "bn": "The notebook reports convergence to the local minimum of the cubic functions, to the minimum at (1, 1) of the 2D Rosenbrock function, and to local minima of the Rastrigin functions, whose result depends on the starting point."
+    }
+  },
+  {
+    "id": "matlab-root-finding",
+    "level": "coursework",
+    "status": "published",
+    "type": "coursework",
+    "year": null,
+    "categories": [
+      "numerical-methods",
+      "scientific-programming"
+    ],
+    "tags": [
+      "bisection",
+      "fixed point",
+      "Newton-Raphson",
+      "root finding"
+    ],
+    "tools": [
+      "MATLAB"
+    ],
+    "title": {
+      "en": "Root finding in MATLAB: bisection, fixed point and Newton–Raphson",
+      "fr": "Recherche de racines sous MATLAB : dichotomie, point fixe et Newton–Raphson",
+      "bn": "Root finding in MATLAB: bisection, fixed point and Newton–Raphson"
+    },
+    "summary": {
+      "en": "Three methods applied to f(x) = 4 ln x − x, published from MATLAB with iteration tables.",
+      "fr": "Trois méthodes appliquées à f(x) = 4 ln x − x, publiées depuis MATLAB avec les tableaux d’itérations.",
+      "bn": "Three methods applied to f(x) = 4 ln x − x, published from MATLAB with iteration tables."
+    },
+    "results": {
+      "en": [
+        "Bisection on [1, 3] with tolerance 10⁻⁶ converged in 21 iterations to x ≈ 1.429612.",
+        "Newton–Raphson from x₀ = 1.5 reached the same root in 4 iterations.",
+        "The fixed-point iteration x ← 4 ln x from x₀ = 1.5 did not meet the tolerance within 20 iterations and was drifting towards the other root, near 8.613."
+      ],
+      "fr": [
+        "La dichotomie sur [1, 3] avec une tolérance de 10⁻⁶ converge en 21 itérations vers x ≈ 1,429612.",
+        "Newton–Raphson depuis x₀ = 1,5 atteint la même racine en 4 itérations.",
+        "L’itération de point fixe x ← 4 ln x depuis x₀ = 1,5 n’atteint pas la tolérance en 20 itérations et se dirige vers l’autre racine, proche de 8,613."
+      ],
+      "bn": [
+        "Bisection on [1, 3] with tolerance 10⁻⁶ converged in 21 iterations to x ≈ 1.429612.",
+        "Newton–Raphson from x₀ = 1.5 reached the same root in 4 iterations.",
+        "The fixed-point iteration x ← 4 ln x from x₀ = 1.5 did not meet the tolerance within 20 iterations and was drifting towards the other root, near 8.613."
+      ]
+    }
+  },
+  {
+    "id": "usmc72-bars-and-beams",
+    "level": "coursework",
+    "status": "published",
+    "type": "coursework",
+    "year": 2026,
+    "date": "2026-01",
+    "course": {
+      "en": "Mechanical Design and Analysis (USMC72)",
+      "fr": "Conception et analyse mécanique (USMC72)",
+      "bn": "Mechanical Design and Analysis (USMC72)"
+    },
+    "institution": "Conservatoire National des Arts et Métiers (CNAM), Paris",
+    "categories": [
+      "structural-mechanics"
+    ],
+    "tags": [
+      "beam theory",
+      "axial loading",
+      "bending",
+      "shear force",
+      "bending moment"
+    ],
+    "tools": [
+      "MATLAB"
+    ],
+    "title": {
+      "en": "Homework: axial bar and simply supported beam",
+      "fr": "Devoir : barre en traction et poutre sur appuis simples",
+      "bn": "Homework: axial bar and simply supported beam"
+    },
+    "summary": {
+      "en": "Two analytical exercises: internal force, stress, strain and displacement in a stepped bar under axial loads, and reactions, shear force, bending moment and deflection of a simply supported beam under uniform load (diagrams produced in MATLAB). Submitted 11 January 2026.",
+      "fr": "Deux exercices analytiques : effort normal, contrainte, déformation et déplacement d’une barre à section variable sous charges axiales, puis réactions, effort tranchant, moment fléchissant et flèche d’une poutre sur appuis simples sous charge uniforme (diagrammes tracés sous MATLAB). Remis le 11 janvier 2026.",
+      "bn": "Two analytical exercises: internal force, stress, strain and displacement in a stepped bar under axial loads, and reactions, shear force, bending moment and deflection of a simply supported beam under uniform load (diagrams produced in MATLAB). Submitted 11 January 2026."
+    }
+  },
+  {
+    "id": "composite-structures-lab-1",
+    "level": "coursework",
+    "status": "published",
+    "type": "laboratory",
+    "year": null,
+    "course": {
+      "en": "Composite Structures — lab session 1",
+      "fr": "Structures composites — séance de travaux pratiques 1",
+      "bn": "Composite Structures — lab session 1"
+    },
+    "institution": "Conservatoire National des Arts et Métiers (CNAM), Paris",
+    "categories": [
+      "materials-composites",
+      "fem",
+      "structural-mechanics"
+    ],
+    "tags": [
+      "homogenisation",
+      "RVE",
+      "S2-glass/epoxy",
+      "Reuss",
+      "Voigt"
+    ],
+    "tools": [],
+    "title": {
+      "en": "Homogenisation of an S2-glass/epoxy representative volume element",
+      "fr": "Homogénéisation d’un volume élémentaire représentatif verre S2/époxy",
+      "bn": "Homogenisation of an S2-glass/epoxy representative volume element"
+    },
+    "summary": {
+      "en": "Joint report of two lab groups on the effective elastic behaviour of a fibre-reinforced cell (1 × 1 × 1 mm³, fibre diameter 0.87 mm): one group imposed macroscopic stresses to extract the compliance matrix, the other imposed strains to extract the stiffness matrix.",
+      "fr": "Rapport commun de deux groupes de travaux pratiques sur le comportement élastique effectif d’une cellule à fibres (1 × 1 × 1 mm³, diamètre de fibre 0,87 mm) : un groupe a imposé des contraintes macroscopiques pour extraire la matrice de souplesse, l’autre des déformations pour extraire la matrice de raideur.",
+      "bn": "Joint report of two lab groups on the effective elastic behaviour of a fibre-reinforced cell (1 × 1 × 1 mm³, fibre diameter 0.87 mm): one group imposed macroscopic stresses to extract the compliance matrix, the other imposed strains to extract the stiffness matrix."
+    },
+    "limitations": {
+      "en": "The report concludes that the extracted compliance and stiffness matrices were not symmetric as expected, that repeated attempts did not fix this, and that the cause needed to be discussed with the teacher. The imposed-strain boundary conditions were verified. The result is therefore presented as an unresolved exercise.",
+      "fr": "Le rapport conclut que les matrices de souplesse et de raideur extraites ne sont pas symétriques comme attendu, que plusieurs tentatives n’ont pas corrigé ce point et que l’origine devait être discutée avec l’enseignant. Les conditions aux limites en déformation imposée ont été vérifiées. Le résultat est donc présenté comme un exercice non résolu.",
+      "bn": "The report concludes that the extracted compliance and stiffness matrices were not symmetric as expected, that repeated attempts did not fix this, and that the cause needed to be discussed with the teacher. The imposed-strain boundary conditions were verified. The result is therefore presented as an unresolved exercise."
+    },
+    "related": [
+      "annular-cylinder-fem"
+    ]
+  }
+]

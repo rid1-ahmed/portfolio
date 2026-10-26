@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" role="img" aria-labelledby="title desc">
+  <title id="title">Rid1 — Technical Precision</title>
+  <desc id="desc">Rid1 wordmark in metallic white and aerospace blue, surrounded by precise engineering construction geometry.</desc>
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#a9c2dc"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7bdcff"/><stop offset="1" stop-color="#0878e8"/></linearGradient>
+  </defs>
+  <g fill="none" stroke="#6ba9e8" opacity=".72" stroke-width="1.1">
+    <circle cx="260" cy="90" r="77"/><circle cx="260" cy="90" r="67" stroke-dasharray="4 7" opacity=".65"/>
+    <path d="M165 90H355M260 0V180M178 23L342 157M342 23L178 157" opacity=".5"/>
+    <path d="M260 7v12m0 142v12M177 90h12m142 0h12"/>
+    <path d="M145 90h20m190 0h20M260 0v17m0 146v17" opacity=".7"/>
+  </g>
+  <g fill="url(#silver)" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="600" letter-spacing="-5">
+    <text x="112" y="119">Rid</text>
+  </g>
+  <path d="M357 48l-19 22h14v51h20V48z" fill="url(#blue)"/>
+  <path d="M102 132H418M102 139H418" stroke="#6ba9e8" stroke-width=".8" opacity=".4"/>
+  <g fill="#80c5ff"><circle cx="102" cy="132" r="2"/><circle cx="418" cy="132" r="2"/></g>
+</svg>

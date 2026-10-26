@@ -1,0 +1,312 @@
+[
+  {
+    "id": "reviewer",
+    "group": "research-service",
+    "kind": "service",
+    "title": {
+      "en": "Peer reviewer, Results in Engineering (Elsevier)",
+      "fr": "Relecteur pour Results in Engineering (Elsevier)",
+      "bn": "Peer reviewer, Results in Engineering (Elsevier)"
+    },
+    "org": "Results in Engineering, Elsevier",
+    "dateLabel": {
+      "en": "Feb 2024 – Oct 2026",
+      "fr": "févr. 2024 – oct. 2026",
+      "bn": "Feb 2024 – Oct 2026"
+    },
+    "year": 2026,
+    "description": {
+      "en": "Certificate of Reviewing from the editors of the journal, awarded for 18 reviews. Manuscript details are confidential and are not shown.",
+      "fr": "Certificat de relecture délivré par les rédacteurs de la revue pour 18 relectures. Les détails des manuscrits sont confidentiels et ne sont pas présentés.",
+      "bn": "Certificate of Reviewing from the editors of the journal, awarded for 18 reviews. Manuscript details are confidential and are not shown."
+    },
+    "evidence": "certificate",
+    "related": {
+      "publications": [
+        "jscp-2024"
+      ]
+    }
+  },
+  {
+    "id": "nasa-space-apps-collective",
+    "group": "space-engagement",
+    "kind": "recognition",
+    "title": {
+      "en": "Certificate of Achievement, NASA Space Apps Collective",
+      "fr": "Certificat de réussite, NASA Space Apps Collective",
+      "bn": "Certificate of Achievement, NASA Space Apps Collective"
+    },
+    "org": "NASA Space Apps Collective",
+    "dateLabel": {
+      "en": "22 June 2024",
+      "fr": "22 juin 2024",
+      "bn": "22 June 2024"
+    },
+    "year": 2024,
+    "description": {
+      "en": "Recognised for dedication, commitment and leadership within the inaugural NASA Space Apps Collective Cohort.",
+      "fr": "Reconnu pour son dévouement, son engagement et son leadership au sein de la cohorte inaugurale du NASA Space Apps Collective.",
+      "bn": "Recognised for dedication, commitment and leadership within the inaugural NASA Space Apps Collective Cohort."
+    },
+    "evidence": "certificate",
+    "topics": [
+      {
+        "en": "Space engagement",
+        "fr": "Engagement spatial",
+        "bn": "Space engagement"
+      }
+    ]
+  },
+  {
+    "id": "iaeng",
+    "group": "affiliations",
+    "kind": "membership",
+    "title": {
+      "en": "Member, International Association of Engineers (IAENG)",
+      "fr": "Membre de l’International Association of Engineers (IAENG)",
+      "bn": "Member, International Association of Engineers (IAENG)"
+    },
+    "org": "International Association of Engineers",
+    "dateLabel": {
+      "en": "Letter dated 27 March 2023",
+      "fr": "Lettre datée du 27 mars 2023",
+      "bn": "Letter dated 27 March 2023"
+    },
+    "year": 2023,
+    "description": {
+      "en": "Member of the IAENG Society of Mechanical Engineering and the IAENG Society of Artificial Intelligence, as confirmed by the association’s official membership letter.",
+      "fr": "Membre de l’IAENG Society of Mechanical Engineering et de l’IAENG Society of Artificial Intelligence, d’après la lettre officielle d’adhésion de l’association.",
+      "bn": "Member of the IAENG Society of Mechanical Engineering and the IAENG Society of Artificial Intelligence, as confirmed by the association’s official membership letter."
+    },
+    "evidence": "letter",
+    "topics": [
+      {
+        "en": "Mechanical engineering",
+        "fr": "Génie mécanique",
+        "bn": "Mechanical engineering"
+      },
+      {
+        "en": "Artificial intelligence",
+        "fr": "Intelligence artificielle",
+        "bn": "Artificial intelligence"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-vep",
+    "group": "technical-development",
+    "kind": "completion",
+    "title": {
+      "en": "Engineering: Undergraduate & Masters Asia Virtual Experience Program (Microsoft, on Forage)",
+      "fr": "Engineering: Undergraduate & Masters Asia Virtual Experience Program (Microsoft, sur Forage)",
+      "bn": "Engineering: Undergraduate & Masters Asia Virtual Experience Program (Microsoft, on Forage)"
+    },
+    "org": "Microsoft, issued by Forage",
+    "dateLabel": {
+      "en": "Jul – Sep 2020 (certificate of 17 Sep 2020)",
+      "fr": "juil. – sept. 2020 (certificat du 17 sept. 2020)",
+      "bn": "Jul – Sep 2020 (certificate of 17 Sep 2020)"
+    },
+    "year": 2020,
+    "description": {
+      "en": "Online programme completed through practical task modules on Microsoft’s values, professional communication, goal setting, growth mindset and how Azure supports organisations’ digital transformation.",
+      "fr": "Programme en ligne suivi à travers des modules pratiques sur les valeurs de Microsoft, la communication professionnelle, la définition d’objectifs, l’état d’esprit de croissance et le rôle d’Azure dans la transformation numérique des organisations.",
+      "bn": "Online programme completed through practical task modules on Microsoft’s values, professional communication, goal setting, growth mindset and how Azure supports organisations’ digital transformation."
+    },
+    "evidence": "certificate",
+    "topics": [
+      {
+        "en": "Professional skills",
+        "fr": "Compétences professionnelles",
+        "bn": "Professional skills"
+      }
+    ]
+  },
+  {
+    "id": "vr-unity-workshop",
+    "group": "technical-development",
+    "kind": "participation",
+    "title": {
+      "en": "Workshop: Learn to Create a VR Game with Unity",
+      "fr": "Atelier : créer un jeu de réalité virtuelle avec Unity",
+      "bn": "Workshop: Learn to Create a VR Game with Unity"
+    },
+    "org": {
+      "en": "VRCON, organised with Bangladesh Innovation Forum",
+      "fr": "VRCON, organisé avec le Bangladesh Innovation Forum",
+      "bn": "VRCON, organised with Bangladesh Innovation Forum"
+    },
+    "dateLabel": null,
+    "year": null,
+    "description": {
+      "en": "Participation certificate for a workshop at VRCON, a conference on AR, VR, MR and games. The certificate is undated.",
+      "fr": "Certificat de participation à un atelier de VRCON, conférence sur la réalité augmentée, virtuelle, mixte et les jeux. Le certificat n’est pas daté.",
+      "bn": "Participation certificate for a workshop at VRCON, a conference on AR, VR, MR and games. The certificate is undated."
+    },
+    "evidence": "certificate",
+    "topics": [
+      {
+        "en": "Virtual reality",
+        "fr": "Réalité virtuelle",
+        "bn": "Virtual reality"
+      }
+    ],
+    "related": {
+      "experience": [
+        "bli-2021"
+      ]
+    }
+  },
+  {
+    "id": "baust-cultural-president",
+    "group": "leadership",
+    "kind": "leadership",
+    "title": {
+      "en": "President, BAUST Cultural Society (5th Committee)",
+      "fr": "Président de la BAUST Cultural Society (5e comité)",
+      "bn": "President, BAUST Cultural Society (5th Committee)"
+    },
+    "org": "BAUST",
+    "dateLabel": {
+      "en": "Jan 2022 – Feb 2023",
+      "fr": "janv. 2022 – févr. 2023",
+      "bn": "Jan 2022 – Feb 2023"
+    },
+    "year": 2022,
+    "description": {
+      "en": "Certificate of appreciation from the society for service as President of its 5th Committee. The dates are from my CV; the certificate is undated.",
+      "fr": "Certificat de remerciement de la société pour son service comme président de son 5e comité. Les dates proviennent de mon CV ; le certificat n’est pas daté.",
+      "bn": "Certificate of appreciation from the society for service as President of its 5th Committee. The dates are from my CV; the certificate is undated."
+    },
+    "evidence": "certificate"
+  },
+  {
+    "id": "cultural-runner-up",
+    "group": "leadership",
+    "kind": "runnerUp",
+    "title": {
+      "en": "Runner-up, Intra-University Cultural Contest (instrumental)",
+      "fr": "Second, concours culturel interuniversitaire interne (instrumental)",
+      "bn": "Runner-up, Intra-University Cultural Contest (instrumental)"
+    },
+    "org": "BAUST",
+    "dateLabel": {
+      "en": "2020",
+      "fr": "2020",
+      "bn": "2020"
+    },
+    "year": 2020,
+    "description": null,
+    "evidence": "cv"
+  },
+  {
+    "id": "sustainx-2021",
+    "group": "competitions",
+    "kind": "participation",
+    "title": {
+      "en": "Participant, SustainX Global Case Study Competition 2021",
+      "fr": "Participant, SustainX Global Case Study Competition 2021",
+      "bn": "Participant, SustainX Global Case Study Competition 2021"
+    },
+    "org": "PeaceX",
+    "dateLabel": {
+      "en": "2021",
+      "fr": "2021",
+      "bn": "2021"
+    },
+    "year": 2021,
+    "description": {
+      "en": "Certificate of participation in a global case-study competition on sustainability organised by PeaceX.",
+      "fr": "Certificat de participation à un concours mondial d’études de cas sur la durabilité organisé par PeaceX.",
+      "bn": "Certificate of participation in a global case-study competition on sustainability organised by PeaceX."
+    },
+    "evidence": "certificate"
+  },
+  {
+    "id": "gph-idea-contest",
+    "group": "competitions",
+    "kind": "winner",
+    "title": {
+      "en": "Winner, Idea Contest — GPH ispat “Esho Robot Banai”",
+      "fr": "Lauréat du concours d’idées — GPH ispat « Esho Robot Banai »",
+      "bn": "Winner, Idea Contest — GPH ispat “Esho Robot Banai”"
+    },
+    "org": "GPH Group",
+    "dateLabel": {
+      "en": "4–7 Feb 2019",
+      "fr": "4–7 févr. 2019",
+      "bn": "4–7 Feb 2019"
+    },
+    "year": 2019,
+    "description": {
+      "en": "Winner’s plaque for the Idea Contest of the GPH ispat “Esho Robot Banai” event, held at BAUST. The plaque does not carry a name or date; the dates are those of the event on the hackathon certificate.",
+      "fr": "Plaque de lauréat du concours d’idées de l’événement GPH ispat « Esho Robot Banai », organisé à la BAUST. La plaque ne porte ni nom ni date ; les dates sont celles de l’événement sur le certificat du hackathon.",
+      "bn": "Winner’s plaque for the Idea Contest of the GPH ispat “Esho Robot Banai” event, held at BAUST. The plaque does not carry a name or date; the dates are those of the event on the hackathon certificate."
+    },
+    "evidence": "plaque",
+    "topics": [
+      {
+        "en": "Robotics",
+        "fr": "Robotique",
+        "bn": "Robotics"
+      }
+    ]
+  },
+  {
+    "id": "gph-hackathon",
+    "group": "competitions",
+    "kind": "participation",
+    "title": {
+      "en": "Participant, 72-hour hackathon — GPH ispat “Esho Robot Banai”",
+      "fr": "Participant au hackathon de 72 heures — GPH ispat « Esho Robot Banai »",
+      "bn": "Participant, 72-hour hackathon — GPH ispat “Esho Robot Banai”"
+    },
+    "org": {
+      "en": "GPH Group; organised by Channel i, CRID USA and BAUST Robotics & A.I. Society",
+      "fr": "GPH Group ; organisé par Channel i, CRID USA et la BAUST Robotics & A.I. Society",
+      "bn": "GPH Group; organised by Channel i, CRID USA and BAUST Robotics & A.I. Society"
+    },
+    "dateLabel": {
+      "en": "4–7 Feb 2019",
+      "fr": "4–7 févr. 2019",
+      "bn": "4–7 Feb 2019"
+    },
+    "year": 2019,
+    "description": {
+      "en": "Certificate of completion for participating in the 72-hour hackathon held at BAUST.",
+      "fr": "Certificat d’achèvement pour la participation au hackathon de 72 heures organisé à la BAUST.",
+      "bn": "Certificate of completion for participating in the 72-hour hackathon held at BAUST."
+    },
+    "evidence": "certificate",
+    "topics": [
+      {
+        "en": "Robotics",
+        "fr": "Robotique",
+        "bn": "Robotics"
+      }
+    ]
+  },
+  {
+    "id": "banmun-2016",
+    "group": "competitions",
+    "kind": "participation",
+    "title": {
+      "en": "Delegate (Iran), Economic and Financial Committee, Bangladesh Model United Nations 2016",
+      "fr": "Délégué (Iran), comité économique et financier, Bangladesh Model United Nations 2016",
+      "bn": "Delegate (Iran), Economic and Financial Committee, Bangladesh Model United Nations 2016"
+    },
+    "org": "BANMUN",
+    "dateLabel": {
+      "en": "2016",
+      "fr": "2016",
+      "bn": "2016"
+    },
+    "year": 2016,
+    "description": {
+      "en": "Certificate of participation as a delegate in the 2016 Model United Nations conference.",
+      "fr": "Certificat de participation comme délégué à la conférence de Modèle des Nations unies de 2016.",
+      "bn": "Certificate of participation as a delegate in the 2016 Model United Nations conference."
+    },
+    "evidence": "certificate"
+  }
+]

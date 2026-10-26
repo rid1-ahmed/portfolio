@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bn",
+    "name": {
+      "en": "Bangla",
+      "fr": "Bengali",
+      "bn": "Bangla"
+    },
+    "level": {
+      "en": "Native",
+      "fr": "Langue maternelle",
+      "bn": "Native"
+    }
+  },
+  {
+    "id": "en",
+    "name": {
+      "en": "English",
+      "fr": "Anglais",
+      "bn": "English"
+    },
+    "level": {
+      "en": "IELTS Academic 8.0",
+      "fr": "IELTS Academic 8,0",
+      "bn": "IELTS Academic 8.0"
+    }
+  },
+  {
+    "id": "fr",
+    "name": {
+      "en": "French",
+      "fr": "Français",
+      "bn": "French"
+    },
+    "level": {
+      "en": "A2",
+      "fr": "A2",
+      "bn": "A2"
+    }
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "reviewing",
+    "title": {
+      "en": "Certificate of Reviewing — Results in Engineering",
+      "fr": "Certificat de relecture — Results in Engineering",
+      "bn": "রিভিউয়ের সনদ — Results in Engineering"
+    },
+    "org": "Results in Engineering (Elsevier)",
+    "date": "February 2024 – October 2026",
+    "kind": "Research service",
+    "image": "assets/images/certificates/reviewing.jpg",
+    "description": {
+      "en": "Awarded for 18 peer reviews. Manuscript details remain confidential.",
+      "fr": "Décerné pour 18 évaluations par les pairs. Les détails des manuscrits restent confidentiels.",
+      "bn": "১৮টি peer review-এর স্বীকৃতিস্বরূপ প্রদান করা হয়েছে। পাণ্ডুলিপির গোপনীয় তথ্য প্রকাশ করা হয়নি।"
+    }
+  },
+  {
+    "id": "nasa-space-apps",
+    "title": {
+      "en": "Certificate of Achievement — NASA Space Apps Collective",
+      "fr": "Certificat de réussite — NASA Space Apps Collective",
+      "bn": "অর্জনের সনদ — NASA Space Apps Collective"
+    },
+    "org": "NASA Space Apps Collective",
+    "date": "22 June 2024",
+    "kind": "Recognition",
+    "image": "assets/images/certificates/nasa-space-apps.jpg",
+    "description": {
+      "en": "Recognition for dedication, commitment and leadership within the inaugural cohort.",
+      "fr": "Reconnaissance du dévouement, de l’engagement et du leadership au sein de la première cohorte.",
+      "bn": "প্রথম cohort-এ নিষ্ঠা, অঙ্গীকার ও নেতৃত্বের স্বীকৃতি।"
+    }
+  },
+  {
+    "id": "baust-cultural-society",
+    "title": {
+      "en": "Certificate of Appreciation — BAUST Cultural Society",
+      "fr": "Certificat de reconnaissance — BAUST Cultural Society",
+      "bn": "প্রশংসাপত্র — BAUST Cultural Society"
+    },
+    "org": "BAUST Cultural Society",
+    "date": "5th Committee",
+    "kind": "Leadership",
+    "image": "assets/images/certificates/baust-cultural-society.jpg",
+    "description": {
+      "en": "Presented in recognition of service as President of the BAUST Cultural Society’s 5th Committee.",
+      "fr": "Remis en reconnaissance du service en tant que président du 5e comité de la BAUST Cultural Society.",
+      "bn": "BAUST Cultural Society-এর ৫ম কমিটির সভাপতি হিসেবে দায়িত্ব পালনের স্বীকৃতি।"
+    }
+  },
+  {
+    "id": "iaeng-membership-letter",
+    "title": {
+      "en": "Official Membership Letter — International Association of Engineers",
+      "fr": "Lettre officielle d’adhésion — International Association of Engineers",
+      "bn": "সদস্যপদের আনুষ্ঠানিক চিঠি — International Association of Engineers"
+    },
+    "org": "International Association of Engineers (IAENG)",
+    "date": "27 March 2023",
+    "kind": "Professional membership",
+    "image": "assets/images/certificates/iaeng-membership-letter.jpg",
+    "description": {
+      "en": "Confirms membership in the IAENG Society of Mechanical Engineering and the IAENG Society of Artificial Intelligence. The member number has been redacted.",
+      "fr": "Confirme l’adhésion à l’IAENG Society of Mechanical Engineering et à l’IAENG Society of Artificial Intelligence. Le numéro de membre a été masqué.",
+      "bn": "IAENG Society of Mechanical Engineering এবং IAENG Society of Artificial Intelligence-এ সদস্যপদ নিশ্চিত করে। সদস্য নম্বর আড়াল করা হয়েছে।"
+    }
+  },
+  {
+    "id": "gph-hackathon",
+    "title": {
+      "en": "Certificate of Completion — Esho Robot Banai 72-hour Hackathon",
+      "fr": "Certificat de participation — Hackathon de 72 heures Esho Robot Banai",
+      "bn": "সমাপ্তির সনদ — Esho Robot Banai ৭২ ঘণ্টার Hackathon"
+    },
+    "org": "GPH Ispat",
+    "date": "2019",
+    "kind": "Participation",
+    "image": "assets/images/certificates/gph-hackathon.jpg",
+    "description": {
+      "en": "Certificate records participation in the 72-hour hackathon; the Idea Contest win is documented separately.",
+      "fr": "Le certificat atteste la participation au hackathon de 72 heures ; la victoire au concours d’idées est documentée séparément.",
+      "bn": "সনদে ৭২ ঘণ্টার hackathon-এ অংশগ্রহণের উল্লেখ রয়েছে; Idea Contest-এ বিজয়ের প্রমাণ আলাদাভাবে দেখানো হয়েছে।"
+    }
+  },
+  {
+    "id": "gph-idea-contest",
+    "title": {
+      "en": "Winner — GPH Ispat Esho Robot Banai Idea Contest",
+      "fr": "Lauréat — Concours d’idées GPH Ispat Esho Robot Banai",
+      "bn": "বিজয়ী — GPH Ispat Esho Robot Banai Idea Contest"
+    },
+    "org": "GPH Ispat",
+    "date": "2019",
+    "kind": "Award",
+    "image": "assets/images/certificates/gph-idea-contest.jpg",
+    "description": {
+      "en": "Winner plaque for the Idea Contest. This is kept distinct from hackathon participation.",
+      "fr": "Plaque de lauréat du concours d’idées. Cette distinction est séparée de la participation au hackathon.",
+      "bn": "Idea Contest-এর বিজয়ী plaque। Hackathon-এ অংশগ্রহণ থেকে এটি আলাদাভাবে দেখানো হয়েছে।"
+    }
+  },
+  {
+    "id": "forage-virtual-experience",
+    "title": {
+      "en": "Engineering: Undergraduate & Masters Asia Virtual Experience",
+      "fr": "Expérience virtuelle Engineering: Undergraduate & Masters Asia",
+      "bn": "Engineering: Undergraduate & Masters Asia Virtual Experience"
+    },
+    "org": "Forage",
+    "date": "17 September 2020",
+    "kind": "Programme completion",
+    "image": "assets/images/certificates/forage-virtual-experience.jpg",
+    "description": {
+      "en": "Completed practical task modules in a virtual experience programme. This is not presented as employment at Microsoft.",
+      "fr": "Modules pratiques réalisés dans le cadre d’un programme d’expérience virtuelle. Il ne s’agit pas d’un emploi chez Microsoft.",
+      "bn": "ভার্চুয়াল অভিজ্ঞতা কর্মসূচিতে ব্যবহারিক task module সম্পন্ন করেছি। এটিকে Microsoft-এ চাকরি হিসেবে উপস্থাপন করা হয়নি।"
+    }
+  },
+  {
+    "id": "sustainx-case-competition",
+    "title": {
+      "en": "Certificate of Participation — SustainX Global Case Competition",
+      "fr": "Certificat de participation — SustainX Global Case Competition",
+      "bn": "অংশগ্রহণের সনদ — SustainX Global Case Competition"
+    },
+    "org": "PeaceX",
+    "date": "2021",
+    "kind": "Participation",
+    "image": "assets/images/certificates/sustainx-case-competition.jpg",
+    "description": {
+      "en": "Participation in the SustainX Global Case Competition 2021.",
+      "fr": "Participation au SustainX Global Case Competition 2021.",
+      "bn": "২০২১ সালের SustainX Global Case Competition-এ অংশগ্রহণ।"
+    }
+  },
+  {
+    "id": "vrcon-workshop",
+    "title": {
+      "en": "VRCon — Workshop on Creating a VR Game with Unity",
+      "fr": "VRCon — Atelier de création d’un jeu VR avec Unity",
+      "bn": "VRCon — Unity দিয়ে VR Game তৈরির কর্মশালা"
+    },
+    "org": "Bangladesh Innovation Forum",
+    "date": "2019",
+    "kind": "Workshop participation",
+    "image": "assets/images/certificates/vrcon-workshop.jpg",
+    "description": {
+      "en": "Participation in a workshop on learning to create a VR game with Unity.",
+      "fr": "Participation à un atelier d’initiation à la création d’un jeu VR avec Unity.",
+      "bn": "Unity ব্যবহার করে VR game তৈরির কর্মশালায় অংশগ্রহণ।"
+    }
+  },
+  {
+    "id": "banmun-2016",
+    "title": {
+      "en": "Certificate of Participation — Bangladesh Model United Nations",
+      "fr": "Certificat de participation — Bangladesh Model United Nations",
+      "bn": "অংশগ্রহণের সনদ — Bangladesh Model United Nations"
+    },
+    "org": "BANMUN 2016",
+    "date": "2016",
+    "kind": "Conference participation",
+    "image": "assets/images/certificates/banmun-2016.jpg",
+    "description": {
+      "en": "Represented Iran on the Economic and Financial Committee as a delegate.",
+      "fr": "A représenté l’Iran au comité économique et financier en tant que délégué.",
+      "bn": "প্রতিনিধি হিসেবে Economic and Financial Committee-তে Iran-এর প্রতিনিধিত্ব করেছি।"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "ridwan-ahmed-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static, dependency-free trilingual academic engineering portfolio (EN/FR/BN).",
+  "scripts": {
+    "validate": "node tools/validate-content.mjs",
+    "serve": "node tools/serve.mjs 8080",
+    "test:browser": "node tools/browser-test.mjs http://localhost:8080/"
+  }
+}

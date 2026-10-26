@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cnam-ms",
+    "degree": {
+      "en": "MS, Structural Mechanics and Coupled Systems",
+      "fr": "Master, Mécanique des structures et systèmes couplés",
+      "bn": "Structural Mechanics and Coupled Systems বিষয়ে MS"
+    },
+    "org": "Conservatoire National des Arts et Métiers (Cnam)",
+    "place": {
+      "en": "Paris, France",
+      "fr": "Paris, France",
+      "bn": "প্যারিস, ফ্রান্স"
+    },
+    "dateLabel": {
+      "en": "Sep 2025 – Sep 2027 (expected)",
+      "fr": "sept. 2025 – sept. 2027 (prévu)",
+      "bn": "সেপ্টেম্বর ২০২৫ – সেপ্টেম্বর ২০২৭ (প্রত্যাশিত)"
+    },
+    "note": {
+      "en": "Currently in the second year (M2). Associated laboratory: LMSSC.",
+      "fr": "Actuellement en deuxième année (M2). Laboratoire associé : LMSSC.",
+      "bn": "বর্তমানে দ্বিতীয় বর্ষে (M2) অধ্যয়নরত। সংশ্লিষ্ট গবেষণাগার: LMSSC।"
+    }
+  },
+  {
+    "id": "baust-bsc",
+    "degree": {
+      "en": "B.Sc. (Engineering), Mechanical Engineering",
+      "fr": "Licence d’ingénierie (B.Sc. Engg.), génie mécanique",
+      "bn": "যন্ত্রকৌশলে B.Sc. (Engineering)"
+    },
+    "org": "Bangladesh Army University of Science and Technology (BAUST)",
+    "place": {
+      "en": "Saidpur, Bangladesh",
+      "fr": "Saidpur, Bangladesh",
+      "bn": "সৈয়দপুর, বাংলাদেশ"
+    },
+    "dateLabel": {
+      "en": "2019 – 2023",
+      "fr": "2019 – 2023",
+      "bn": "২০১৯ – ২০২৩"
+    },
+    "note": null
+  }
+]

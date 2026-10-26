@@ -1,0 +1,277 @@
+{
+  "name": "Ridwan Ahmed",
+  "updated": "2026-10-24",
+  "defaultLanguage": "en",
+  "languages": [
+    {
+      "code": "en",
+      "label": "English",
+      "short": "EN",
+      "enabled": true
+    },
+    {
+      "code": "fr",
+      "label": "Français",
+      "short": "FR",
+      "enabled": true
+    },
+    {
+      "code": "bn",
+      "label": "বাংলা",
+      "short": "বাং",
+      "enabled": true
+    }
+  ],
+  "contact": {
+    "email": "ridwan.ahmed.auditeur@lecnam.net",
+    "linkedin": "https://www.linkedin.com/in/rid1ahmed/",
+    "paperDoi": "https://doi.org/10.1016/j.rineng.2024.101990",
+    "form": {
+      "enabled": false
+    },
+    "github": "",
+    "orcid": "",
+    "googleScholar": "",
+    "researchGate": "",
+    "instagram": "",
+    "facebook": "",
+    "socials": [
+      {
+        "id": "linkedin",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rid1ahmed/",
+        "kind": "professional"
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "url": "mailto:ridwan.ahmed.auditeur@lecnam.net",
+        "kind": "contact"
+      },
+      {
+        "id": "publication",
+        "label": {
+          "en": "Research publication",
+          "fr": "Publication scientifique",
+          "bn": "গবেষণা প্রকাশনা"
+        },
+        "url": "https://doi.org/10.1016/j.rineng.2024.101990",
+        "kind": "research"
+      }
+    ]
+  },
+  "cv": {
+    "en": "assets/documents/cv/Ridwan_AHMED_CV_en.pdf",
+    "fr": null,
+    "bn": "assets/documents/cv/Ridwan_AHMED_CV_en.pdf"
+  },
+  "nav": [
+    "about",
+    "projects",
+    "coursework",
+    "research",
+    "skills",
+    "background",
+    "certificates",
+    "engagement",
+    "art",
+    "cv",
+    "contact"
+  ],
+  "categories": [
+    {
+      "id": "structural-mechanics",
+      "label": {
+        "en": "Structural mechanics",
+        "fr": "Mécanique des structures",
+        "bn": "Structural mechanics"
+      }
+    },
+    {
+      "id": "fem",
+      "label": {
+        "en": "Finite-element methods",
+        "fr": "Méthode des éléments finis",
+        "bn": "Finite-element methods"
+      }
+    },
+    {
+      "id": "numerical-methods",
+      "label": {
+        "en": "Numerical methods",
+        "fr": "Méthodes numériques",
+        "bn": "Numerical methods"
+      }
+    },
+    {
+      "id": "optimisation",
+      "label": {
+        "en": "Optimisation",
+        "fr": "Optimisation",
+        "bn": "Optimisation"
+      }
+    },
+    {
+      "id": "scientific-programming",
+      "label": {
+        "en": "Scientific programming",
+        "fr": "Programmation scientifique",
+        "bn": "Scientific programming"
+      }
+    },
+    {
+      "id": "materials-composites",
+      "label": {
+        "en": "Materials and composites",
+        "fr": "Matériaux et composites",
+        "bn": "Materials and composites"
+      }
+    },
+    {
+      "id": "experimental",
+      "label": {
+        "en": "Experimental and laboratory work",
+        "fr": "Travaux expérimentaux et de laboratoire",
+        "bn": "Experimental and laboratory work"
+      }
+    },
+    {
+      "id": "design-robotics",
+      "label": {
+        "en": "Design and robotics",
+        "fr": "Conception et robotique",
+        "bn": "Design and robotics"
+      }
+    }
+  ],
+  "projectTypes": [
+    {
+      "id": "research",
+      "label": {
+        "en": "Research",
+        "fr": "Recherche",
+        "bn": "Research"
+      }
+    },
+    {
+      "id": "university_project",
+      "label": {
+        "en": "University project",
+        "fr": "Projet universitaire",
+        "bn": "University project"
+      }
+    },
+    {
+      "id": "coursework",
+      "label": {
+        "en": "Coursework",
+        "fr": "Travail de cours",
+        "bn": "Coursework"
+      }
+    },
+    {
+      "id": "laboratory",
+      "label": {
+        "en": "Laboratory work",
+        "fr": "Travaux pratiques",
+        "bn": "Laboratory work"
+      }
+    },
+    {
+      "id": "personal",
+      "label": {
+        "en": "Personal project",
+        "fr": "Projet personnel",
+        "bn": "Personal project"
+      }
+    },
+    {
+      "id": "professional",
+      "label": {
+        "en": "Professional project",
+        "fr": "Projet professionnel",
+        "bn": "Professional project"
+      }
+    }
+  ],
+  "engagementGroups": [
+    {
+      "id": "research-service",
+      "title": {
+        "en": "Research & Scientific Service",
+        "fr": "Recherche et service scientifique",
+        "bn": "Research & Scientific Service"
+      },
+      "intro": {
+        "en": "Service to the research community.",
+        "fr": "Service rendu à la communauté de recherche.",
+        "bn": "Service to the research community."
+      }
+    },
+    {
+      "id": "space-engagement",
+      "title": {
+        "en": "Space & Engineering Engagement",
+        "fr": "Engagement spatial et ingénierie",
+        "bn": "Space & Engineering Engagement"
+      },
+      "intro": {
+        "en": "Programmes connected to space and engineering communities.",
+        "fr": "Programmes liés aux communautés spatiale et d’ingénierie.",
+        "bn": "Programmes connected to space and engineering communities."
+      }
+    },
+    {
+      "id": "affiliations",
+      "title": {
+        "en": "Professional & Technical Affiliations",
+        "fr": "Affiliations professionnelles et techniques",
+        "bn": "Professional & Technical Affiliations"
+      },
+      "intro": {
+        "en": "Memberships of engineering associations.",
+        "fr": "Adhésions à des associations d’ingénieurs.",
+        "bn": "Memberships of engineering associations."
+      }
+    },
+    {
+      "id": "technical-development",
+      "title": {
+        "en": "Technical & Professional Development",
+        "fr": "Développement technique et professionnel",
+        "bn": "Technical & Professional Development"
+      },
+      "intro": {
+        "en": "Online programmes and workshops.",
+        "fr": "Programmes en ligne et ateliers.",
+        "bn": "Online programmes and workshops."
+      }
+    },
+    {
+      "id": "leadership",
+      "title": {
+        "en": "Leadership & University Engagement",
+        "fr": "Leadership et engagement universitaire",
+        "bn": "Leadership & University Engagement"
+      },
+      "intro": {
+        "en": "Roles held during my undergraduate studies.",
+        "fr": "Rôles tenus durant mes études de licence.",
+        "bn": "Roles held during my undergraduate studies."
+      }
+    },
+    {
+      "id": "competitions",
+      "title": {
+        "en": "Competitions & Professional Development",
+        "fr": "Concours et développement professionnel",
+        "bn": "Competitions & Professional Development"
+      },
+      "intro": {
+        "en": "Competitions, hackathons and conferences.",
+        "fr": "Concours, hackathons et conférences.",
+        "bn": "Competitions, hackathons and conferences."
+      }
+    }
+  ]
+}

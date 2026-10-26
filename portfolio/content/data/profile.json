@@ -1,0 +1,110 @@
+{
+  "name": "Ridwan Ahmed",
+  "location": {
+    "en": "Paris, France",
+    "fr": "Paris, France",
+    "bn": "প্যারিস, ফ্রান্স"
+  },
+  "headline": {
+    "en": "Mechanical Engineer | M2 student in Structural Mechanics and Coupled Systems at CNAM Paris",
+    "fr": "Ingénieur mécanicien | Étudiant en M2 Mécanique des structures et systèmes couplés au Cnam Paris",
+    "bn": "যন্ত্রকৌশলী | CNAM Paris-এ Structural Mechanics and Coupled Systems বিষয়ে M2 শিক্ষার্থী"
+  },
+  "intro": {
+    "en": "I am a mechanical engineer currently pursuing an M2 in Structural Mechanics and Coupled Systems at CNAM Paris. My background combines experimental research on aluminium-matrix composites with engineering experience and current work in numerical modelling, finite-element analysis and scientific programming. My technical interests include structural mechanics, vibrations, fluid–structure interaction, coupled and multiphysics systems, materials behaviour and aerospace applications.",
+    "fr": "Je suis ingénieur mécanicien et je prépare actuellement un M2 en mécanique des structures et systèmes couplés au Cnam Paris. Mon parcours associe une recherche expérimentale sur des composites à matrice aluminium, une expérience en ingénierie et des travaux actuels en modélisation numérique, analyse par éléments finis et programmation scientifique. Mes centres d’intérêt techniques comprennent la mécanique des structures, les vibrations, les interactions fluide-structure, les systèmes couplés et multiphysiques, le comportement des matériaux et les applications aérospatiales.",
+    "bn": "আমি একজন যন্ত্রকৌশলী এবং বর্তমানে CNAM Paris-এ Structural Mechanics and Coupled Systems বিষয়ে M2 করছি। অ্যালুমিনিয়াম-ম্যাট্রিক্স কম্পোজিট নিয়ে পরীক্ষামূলক গবেষণা, প্রকৌশল-সংক্রান্ত অভিজ্ঞতা এবং সংখ্যাতাত্ত্বিক মডেলিং, finite-element analysis ও scientific programming-এ বর্তমান কাজ—এসব আমার অভিজ্ঞতার অংশ।"
+  },
+  "seeking": {
+    "en": "Seeking a research-oriented internship applying simulation and structural analysis to real engineering problems.",
+    "fr": "À la recherche d’un stage orienté recherche, appliquant la simulation et l’analyse des structures à des problèmes d’ingénierie concrets.",
+    "bn": "বাস্তব প্রকৌশল সমস্যায় simulation ও structural analysis প্রয়োগের সুযোগসহ গবেষণামুখী ইন্টার্নশিপ খুঁজছি।"
+  },
+  "interests": [
+    {
+      "en": "Structural mechanics",
+      "fr": "Mécanique des structures",
+      "bn": "কাঠামোগত বলবিদ্যা"
+    },
+    {
+      "en": "Vibrations and structural dynamics",
+      "fr": "Vibrations et dynamique des structures",
+      "bn": "কম্পন ও কাঠামোগত গতিবিদ্যা"
+    },
+    {
+      "en": "Fluid–structure interaction (FSI)",
+      "fr": "Interaction fluide-structure (IFS)",
+      "bn": "তরল-গঠন পারস্পরিক ক্রিয়া (FSI)"
+    },
+    {
+      "en": "Finite-element modelling and simulation",
+      "fr": "Modélisation et simulation par éléments finis",
+      "bn": "সসীম উপাদান মডেলিং ও সিমুলেশন"
+    },
+    {
+      "en": "Coupled systems and multiphysics",
+      "fr": "Systèmes couplés et multiphysique",
+      "bn": "কাপলড সিস্টেম ও মাল্টিফিজিক্স"
+    },
+    {
+      "en": "Materials science",
+      "fr": "Science des matériaux",
+      "bn": "পদার্থবিজ্ঞান ও উপকরণ বিজ্ঞান"
+    },
+    {
+      "en": "Composite materials",
+      "fr": "Matériaux composites",
+      "bn": "কম্পোজিট উপকরণ"
+    },
+    {
+      "en": "Composite and metal-matrix materials",
+      "fr": "Matériaux composites et à matrice métallique",
+      "bn": "ধাতব-ম্যাট্রিক্স উপকরণ"
+    },
+    {
+      "en": "Aerospace structures and applications",
+      "fr": "Structures et applications aérospatiales",
+      "bn": "মহাকাশযানের কাঠামো ও প্রয়োগ"
+    },
+    {
+      "en": "Scientific programming and numerical methods",
+      "fr": "Programmation scientifique et méthodes numériques",
+      "bn": "বৈজ্ঞানিক প্রোগ্রামিং ও সংখ্যাতাত্ত্বিক পদ্ধতি"
+    },
+    {
+      "en": "Microcontrollers, sensors and embedded systems",
+      "fr": "Microcontrôleurs, capteurs et systèmes embarqués",
+      "bn": "মাইক্রোকন্ট্রোলার, সেন্সর ও এমবেডেড সিস্টেম"
+    }
+  ],
+  "aboutShort": {
+    "en": "I am a mechanical engineer trained at Bangladesh Army University of Science and Technology (BAUST). My undergraduate research on jute-stick-charcoal-powder-reinforced aluminium-matrix composites contributed to a paper published in Results in Engineering. After gaining experience in engineering and operations roles, I moved to Paris to pursue an M2 in Structural Mechanics and Coupled Systems at CNAM. I am particularly interested in structural dynamics, vibrations, fluid–structure interaction and numerical simulation.",
+    "fr": "Je suis ingénieur mécanicien, diplômé de la Bangladesh Army University of Science and Technology (BAUST). Ma recherche de premier cycle sur des composites à matrice aluminium renforcés par de la poudre de charbon de tiges de jute a contribué à un article publié dans Results in Engineering. Après plusieurs expériences en ingénierie et en gestion des opérations, je me suis installé à Paris pour préparer un M2 en mécanique des structures et systèmes couplés au Cnam. Je m’intéresse particulièrement à la dynamique des structures, aux vibrations, aux interactions fluide-structure et à la simulation numérique.",
+    "bn": "আমি Bangladesh Army University of Science and Technology (BAUST)-এর যন্ত্রকৌশল বিভাগের স্নাতক। পাটকাঠির চারকোল পাউডার-সমৃদ্ধ অ্যালুমিনিয়াম-ম্যাট্রিক্স কম্পোজিট নিয়ে আমার স্নাতক পর্যায়ের গবেষণা Results in Engineering জার্নালে প্রকাশিত একটি প্রবন্ধে অবদান রেখেছে। প্রকৌশল ও অপারেশনস-সংক্রান্ত অভিজ্ঞতার পর আমি CNAM Paris-এ Structural Mechanics and Coupled Systems বিষয়ে M2 করতে প্যারিসে এসেছি।"
+  },
+  "aboutLong": {
+    "en": [
+      "I am currently pursuing the second year of the International Master’s in Structural Mechanics and Coupled Systems at the Conservatoire national des arts et métiers (Cnam) in Paris. The programme brings together advanced mechanics, numerical modelling and multidisciplinary engineering. Its academic environment is closely connected to the work of the Structural Mechanics and Coupled Systems Laboratory (LMSSC), whose research addresses linear and nonlinear structural dynamics, fluid–structure interaction and vibroacoustics, smart structures and interfaces, and source identification and noise control. These themes, with applications across aeronautics, space and naval engineering, are closely aligned with the areas I want to explore further.",
+      "My current studies are developing my ability to approach mechanical problems through modelling and computation as well as physical understanding. My coursework and projects have included finite-element analysis using Patran/Nastran, implementation of a four-node finite element in MATLAB, trust-region optimisation in Python, and homogenisation of a fibre-reinforced composite cell. I have also worked with tools such as COMSOL, MATLAB and numerical simulation environments, and I am particularly interested in structural dynamics, vibrations, coupled systems and multiphysics behaviour.",
+      "I earned my B.Sc. (Engineering) in Mechanical Engineering from Bangladesh Army University of Science and Technology (BAUST) in 2023. My undergraduate research focused on aluminium-matrix composites reinforced with jute-stick charcoal powder. I contributed to the fabrication of the composites by stir casting and their experimental characterisation through mechanical testing, scanning electron microscopy and X-ray diffraction. The work resulted in a peer-reviewed article in Results in Engineering, where I was the first author. This experience introduced me to experimental research, materials behaviour and the importance of connecting processing conditions with mechanical performance.",
+      "Beyond academic work, I have been involved in student leadership, engineering activities and professional communities. At BAUST, I served as President of the Cultural Society’s 5th Committee and was runner-up in an intra-university instrumental music competition. I also took part in the 72-hour GPH ispat “Esho Robot Banai” hackathon and won its idea contest. More recently, I was recognised as part of the inaugural NASA Space Apps Collective cohort for commitment and leadership. I am also a member of the IAENG societies for Mechanical Engineering and Artificial Intelligence, and have served as a peer reviewer for Results in Engineering.",
+      "Alongside my academic and research experience, I have worked in engineering, operations, supply-chain and project-execution roles. These experiences have broadened my perspective on how technical work fits within teams, schedules, suppliers and practical project constraints. I now want to build on this combination of experimental foundations and computational mechanics through research and engineering work involving structural analysis, simulation and real-world mechanical systems."
+    ],
+    "fr": [
+      "Je suis actuellement en deuxième année du Master international en mécanique des structures et systèmes couplés au Conservatoire national des arts et métiers (Cnam), à Paris. Cette formation associe mécanique avancée, modélisation numérique et ingénierie pluridisciplinaire. Son environnement académique est étroitement lié aux travaux du Laboratoire de mécanique des structures et des systèmes couplés (LMSSC), dont les recherches portent notamment sur la dynamique linéaire et non linéaire des structures, l’interaction fluide-structure et la vibroacoustique, les structures et interfaces intelligentes, ainsi que l’identification des sources et le contrôle du bruit. Ces thématiques, avec des applications dans l’aéronautique, le spatial et le naval, correspondent aux domaines que je souhaite approfondir.",
+      "Mes études actuelles développent ma capacité à aborder les problèmes mécaniques par la modélisation et le calcul, tout en conservant une compréhension physique des phénomènes. Mes cours et projets comprennent notamment l’analyse par éléments finis avec Patran/Nastran, l’implémentation d’un élément fini à quatre nœuds sous MATLAB, l’optimisation par régions de confiance en Python et l’homogénéisation d’une cellule de composite à fibres. J’ai également travaillé avec des outils tels que COMSOL et MATLAB. Je m’intéresse particulièrement à la dynamique des structures, aux vibrations, aux systèmes couplés et aux phénomènes multiphysiques.",
+      "J’ai obtenu en 2023 un B.Sc. (Engineering) en génie mécanique à la Bangladesh Army University of Science and Technology (BAUST). Ma recherche de premier cycle portait sur des composites à matrice aluminium renforcés par de la poudre de charbon de tiges de jute. J’ai contribué à leur fabrication par brassage en fonderie (stir casting) et à leur caractérisation expérimentale au moyen d’essais mécaniques, de la microscopie électronique à balayage et de la diffraction des rayons X. Ces travaux ont donné lieu à un article évalué par les pairs dans Results in Engineering, dont je suis le premier auteur. Cette expérience m’a initié à la recherche expérimentale, au comportement des matériaux et au lien entre les paramètres d’élaboration et les performances mécaniques.",
+      "En dehors de mes études et de mes travaux de recherche, je me suis investi dans la vie étudiante, des activités d’ingénierie et des communautés professionnelles. À la BAUST, j’ai été président du 5e comité de la Cultural Society et j’ai obtenu la deuxième place à un concours instrumental interuniversitaire. J’ai également participé au hackathon de 72 heures GPH ispat « Esho Robot Banai » et remporté son concours d’idées. Plus récemment, j’ai été distingué au sein de la première cohorte du NASA Space Apps Collective pour mon engagement et mon leadership. Je suis également membre des sociétés IAENG consacrées au génie mécanique et à l’intelligence artificielle, et j’ai exercé comme relecteur pour Results in Engineering.",
+      "En parallèle de mon parcours académique et de mes expériences de recherche, j’ai travaillé dans des fonctions liées à l’ingénierie, aux opérations, à la chaîne d’approvisionnement et à l’exécution de projets. Ces expériences m’ont permis de mieux comprendre l’intégration du travail technique dans des équipes et des projets soumis à des contraintes de délais, de fournisseurs et de mise en œuvre. Je souhaite aujourd’hui m’appuyer sur cette double expérience, expérimentale et numérique, dans des travaux de recherche et d’ingénierie portant sur l’analyse des structures, la simulation et les systèmes mécaniques réels."
+    ],
+    "bn": [
+      "আমি বর্তমানে প্যারিসের Conservatoire national des arts et métiers (Cnam)-এ Structural Mechanics and Coupled Systems বিষয়ে International Master’s-এর দ্বিতীয় বর্ষে (M2) অধ্যয়ন করছি। এই প্রোগ্রামে উন্নত মেকানিক্স, সংখ্যাতাত্ত্বিক মডেলিং এবং বহুবিষয়ক প্রকৌশল একত্রিত হয়েছে। এর শিক্ষাগত পরিবেশ LMSSC গবেষণাগারের কাজের সঙ্গে ঘনিষ্ঠভাবে সম্পর্কিত। গবেষণাগারটির প্রধান বিষয়গুলোর মধ্যে রয়েছে linear ও nonlinear structural dynamics, fluid–structure interaction ও vibroacoustics, smart structures ও interfaces, এবং source identification ও noise control। অ্যারোনটিক্স, মহাকাশ ও নৌ-প্রকৌশলে এসব বিষয়ের প্রয়োগ আমার আগ্রহের ক্ষেত্রের সঙ্গে সামঞ্জস্যপূর্ণ।",
+      "বর্তমান পড়াশোনা আমাকে ভৌত ধারণার পাশাপাশি modelling ও computation ব্যবহার করে যান্ত্রিক সমস্যা বিশ্লেষণের দক্ষতা গড়ে তুলতে সাহায্য করছে। আমার coursework ও project-এর মধ্যে রয়েছে Patran/Nastran দিয়ে finite-element analysis, MATLAB-এ four-node finite element বাস্তবায়ন, Python-এ trust-region optimisation এবং fibre-reinforced composite cell-এর homogenisation। COMSOL ও MATLAB-এর মতো টুল নিয়েও কাজ করেছি। Structural dynamics, vibrations, coupled systems এবং multiphysics behaviour আমার বিশেষ আগ্রহের বিষয়।",
+      "আমি ২০২৩ সালে Bangladesh Army University of Science and Technology (BAUST) থেকে Mechanical Engineering-এ B.Sc. (Engineering) ডিগ্রি অর্জন করি। স্নাতক পর্যায়ের গবেষণায় jute-stick charcoal powder দিয়ে reinforced aluminium-matrix composites নিয়ে কাজ করেছি। Stir casting পদ্ধতিতে composite তৈরি এবং mechanical testing, scanning electron microscopy ও X-ray diffraction-এর মাধ্যমে পরীক্ষামূলক বৈশিষ্ট্য নিরূপণে অবদান রেখেছি। এই কাজের ফলাফল Results in Engineering-এ peer-reviewed প্রবন্ধ হিসেবে প্রকাশিত হয়েছে, যেখানে আমি প্রথম লেখক। এই অভিজ্ঞতা experimental research, materials behaviour এবং processing condition-এর সঙ্গে mechanical performance-এর সম্পর্ক বুঝতে সাহায্য করেছে।",
+      "পড়াশোনা ও গবেষণার বাইরেও ছাত্রনেতৃত্ব, প্রকৌশলভিত্তিক কার্যক্রম এবং পেশাগত সংগঠনে যুক্ত থেকেছি। BAUST-এ আমি Cultural Society-এর ৫ম কমিটির President হিসেবে দায়িত্ব পালন করেছি এবং আন্তঃবিশ্ববিদ্যালয় instrumental music competition-এ runner-up হয়েছিলাম। GPH ispat “Esho Robot Banai” ৭২ ঘণ্টার hackathon-এ অংশ নিয়ে এর idea contest-এ বিজয়ী হই। পরবর্তীতে NASA Space Apps Collective-এর inaugural cohort-এ commitment ও leadership-এর স্বীকৃতি পেয়েছি। আমি IAENG-এর Mechanical Engineering ও Artificial Intelligence society-এর সদস্য এবং Results in Engineering-এর peer reviewer হিসেবেও কাজ করেছি।",
+      "একাডেমিক ও গবেষণার অভিজ্ঞতার পাশাপাশি engineering, operations, supply chain এবং project execution-সংশ্লিষ্ট দায়িত্বেও কাজ করেছি। এসব অভিজ্ঞতা আমাকে দল, সময়সীমা, সরবরাহকারী এবং বাস্তব প্রকল্পের সীমাবদ্ধতার মধ্যে প্রযুক্তিগত কাজ কীভাবে সম্পন্ন হয় তা বুঝতে সাহায্য করেছে। এখন experimental foundation ও computational mechanics-এর এই সমন্বয় কাজে লাগিয়ে structural analysis, simulation এবং বাস্তব mechanical systems-সংক্রান্ত গবেষণা ও প্রকৌশল কাজে এগিয়ে যেতে চাই।"
+    ]
+  },
+  "photo": "assets/images/personal/ridwan-portrait-original.jpeg",
+  "heroImage": "assets/images/personal/cnam-paris-original.jpeg"
+}

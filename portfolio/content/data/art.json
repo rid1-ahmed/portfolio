@@ -1,0 +1,72 @@
+{
+  "series": {
+    "en": "Inktober 2023",
+    "fr": "Inktober 2023",
+    "bn": "Inktober 2023"
+  },
+  "images": [
+    {
+      "id": "inktober-2023-01",
+      "src": "assets/images/art/inktober-2023-01.webp",
+      "alt": {
+        "en": "Pen sketch of a braced lattice structure above an outstretched hand shooting a coiled line, with block lettering",
+        "fr": "Croquis au stylo d’une structure en treillis contreventée au-dessus d’une main tendue lançant une ligne enroulée, avec des lettres en relief",
+        "bn": "Pen sketch of a braced lattice structure above an outstretched hand shooting a coiled line, with block lettering"
+      }
+    },
+    {
+      "id": "inktober-2023-02",
+      "src": "assets/images/art/inktober-2023-02.webp",
+      "alt": {
+        "en": "Black and red pen drawing with dense hatching of a jagged, spiky form",
+        "fr": "Dessin au stylo noir et rouge, aux hachures denses, d’une forme déchiquetée et hérissée de pointes",
+        "bn": "Black and red pen drawing with dense hatching of a jagged, spiky form"
+      }
+    },
+    {
+      "id": "inktober-2023-03",
+      "src": "assets/images/art/inktober-2023-03.webp",
+      "alt": {
+        "en": "Pen and pencil drawing of a bloodshot eye with eyebrow",
+        "fr": "Dessin au stylo et au crayon d’un œil injecté de sang avec son sourcil",
+        "bn": "Pen and pencil drawing of a bloodshot eye with eyebrow"
+      }
+    },
+    {
+      "id": "inktober-2023-04",
+      "src": "assets/images/art/inktober-2023-04.webp",
+      "alt": {
+        "en": "Pen drawing of a fantasy map with a floating island and tree, a castle, a lighthouse and a ship",
+        "fr": "Dessin au stylo d’une carte imaginaire avec une île flottante et un arbre, un château, un phare et un navire",
+        "bn": "Pen drawing of a fantasy map with a floating island and tree, a castle, a lighthouse and a ship"
+      }
+    },
+    {
+      "id": "inktober-2023-05",
+      "src": "assets/images/art/inktober-2023-05.webp",
+      "alt": {
+        "en": "Colour-pen drawing of a red and purple frog in a leaping pose",
+        "fr": "Dessin au stylo de couleur d’une grenouille rouge et violette en position de saut",
+        "bn": "Colour-pen drawing of a red and purple frog in a leaping pose"
+      }
+    },
+    {
+      "id": "inktober-2023-06",
+      "src": "assets/images/art/inktober-2023-06.webp",
+      "alt": {
+        "en": "Pen drawing of a faceted mountain with a gravestone, a knife, an anatomical heart and a small emblem linked by dotted lines",
+        "fr": "Dessin au stylo d’une montagne à facettes avec une pierre tombale, un couteau, un cœur anatomique et un petit emblème reliés par des lignes pointillées",
+        "bn": "Pen drawing of a faceted mountain with a gravestone, a knife, an anatomical heart and a small emblem linked by dotted lines"
+      }
+    },
+    {
+      "id": "inktober-2023-07",
+      "src": "assets/images/art/inktober-2023-07.webp",
+      "alt": {
+        "en": "Pen drawing of a hand reaching towards a cracked grey sphere ringed with red patches",
+        "fr": "Dessin au stylo d’une main tendue vers une sphère grise fissurée entourée de plaques rouges",
+        "bn": "Pen drawing of a hand reaching towards a cracked grey sphere ringed with red patches"
+      }
+    }
+  ]
+}

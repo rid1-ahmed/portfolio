@@ -1,0 +1,182 @@
+[
+  {
+    "id": "takeoff-2025",
+    "role": {
+      "en": "Data Development Lead",
+      "fr": "Responsable du développement des données",
+      "bn": "ডেটা ডেভেলপমেন্ট লিড"
+    },
+    "org": "Takeoff Moving Company",
+    "place": {
+      "en": "Canada (remote)",
+      "fr": "Canada (à distance)",
+      "bn": "কানাডা (দূরবর্তী)"
+    },
+    "start": "2025",
+    "end": null,
+    "dateLabel": {
+      "en": "2025",
+      "fr": "2025",
+      "bn": "2025"
+    },
+    "kind": "operations",
+    "points": {
+      "en": [
+        "Analysed operational and fleet-related data to support planning, reporting and day-to-day decision-making.",
+        "Developed and maintained the company website, combining data-focused work with digital development."
+      ],
+      "fr": [
+        "Analyse des données opérationnelles et liées à la flotte afin de soutenir la planification, le reporting et les décisions quotidiennes.",
+        "Développement et maintenance du site web de l’entreprise, en associant le travail sur les données au développement numérique."
+      ],
+      "bn": [
+        "পরিকল্পনা, প্রতিবেদন এবং দৈনন্দিন সিদ্ধান্ত গ্রহণে সহায়তার জন্য অপারেশনাল ও ফ্লিট-সংক্রান্ত ডেটা বিশ্লেষণ।",
+        "ডেটা-ভিত্তিক কাজের পাশাপাশি কোম্পানির ওয়েবসাইট তৈরি ও রক্ষণাবেক্ষণ।"
+      ]
+    }
+  },
+  {
+    "id": "esquire-2024",
+    "role": {
+      "en": "Executive, Operations & Supply Chain Management",
+      "fr": "Cadre, exploitation et gestion de la chaîne d’approvisionnement",
+      "bn": "অপারেশনস ও সাপ্লাই চেইন ম্যানেজমেন্ট এক্সিকিউটিভ"
+    },
+    "org": "Esquire Group Limited",
+    "place": {
+      "en": "Dhaka, Bangladesh",
+      "fr": "Dacca, Bangladesh",
+      "bn": "ঢাকা, বাংলাদেশ"
+    },
+    "start": "2024-05",
+    "end": "2024-11",
+    "dateLabel": {
+      "en": "May 2024 – Nov 2024",
+      "fr": "mai 2024 – nov. 2024",
+      "bn": "May 2024 – Nov 2024"
+    },
+    "kind": "operations",
+    "points": {
+      "en": [
+        "Oversaw operations and maintenance across three business units and four factories.",
+        "Optimised production workflows, increasing efficiency by 22%.",
+        "Managed regular material testing and production."
+      ],
+      "fr": [
+        "Supervision de l’exploitation et de la maintenance sur trois unités d’activité et quatre usines.",
+        "Optimisation des flux de production, avec un gain d’efficacité de 22 %.",
+        "Gestion des essais de matériaux et de la production courante."
+      ],
+      "bn": [
+        "তিনটি ব্যবসায়িক ইউনিট ও চারটি কারখানার অপারেশনস এবং রক্ষণাবেক্ষণ তদারকি করেছি।",
+        "উৎপাদনপ্রবাহ উন্নত করে দক্ষতা ২২% বৃদ্ধি করেছি।",
+        "নিয়মিত উপকরণ পরীক্ষা ও উৎপাদন কার্যক্রম পরিচালনা করেছি।"
+      ]
+    }
+  },
+  {
+    "id": "peal-2023",
+    "role": {
+      "en": "Assistant Engineer",
+      "fr": "Ingénieur assistant",
+      "bn": "সহকারী প্রকৌশলী"
+    },
+    "org": "PEAL Engineering & Construction Ltd.",
+    "place": {
+      "en": "Dhaka, Bangladesh",
+      "fr": "Dacca, Bangladesh",
+      "bn": "ঢাকা, বাংলাদেশ"
+    },
+    "start": "2023-04",
+    "end": "2024-04",
+    "dateLabel": {
+      "en": "Apr 2023 – Apr 2024",
+      "fr": "avr. 2023 – avr. 2024",
+      "bn": "Apr 2023 – Apr 2024"
+    },
+    "kind": "engineering",
+    "points": {
+      "en": [
+        "Managed project execution for Horizontal Directional Drilling (HDD) projects.",
+        "Prepared and submitted EPC tender documentation, including technical research and compliance review.",
+        "Led procurement sourcing from local and international suppliers."
+      ],
+      "fr": [
+        "Conduite de l’exécution de projets de forage dirigé horizontal (HDD).",
+        "Préparation et dépôt de dossiers d’appel d’offres EPC, avec recherche technique et vérification de conformité.",
+        "Pilotage de l’approvisionnement auprès de fournisseurs locaux et internationaux."
+      ],
+      "bn": [
+        "Horizontal Directional Drilling (HDD) প্রকল্পের বাস্তবায়ন পরিচালনা করেছি।",
+        "প্রযুক্তিগত গবেষণা ও compliance review-সহ EPC tender documents প্রস্তুত ও জমা দিয়েছি।",
+        "স্থানীয় ও আন্তর্জাতিক সরবরাহকারীদের কাছ থেকে procurement sourcing পরিচালনা করেছি।"
+      ]
+    }
+  },
+  {
+    "id": "clw-2022",
+    "role": {
+      "en": "Industrial Attachment Training",
+      "fr": "Stage d’attachement industriel (Industrial Attachment Training)",
+      "bn": "ইন্ডাস্ট্রিয়াল অ্যাটাচমেন্ট প্রশিক্ষণ"
+    },
+    "org": "Central Locomotive Workshop, Bangladesh Railway",
+    "place": {
+      "en": "Parbatipur, Dinajpur, Bangladesh",
+      "fr": "Parbatipur, Dinajpur, Bangladesh",
+      "bn": "পার্বতীপুর, দিনাজপুর, বাংলাদেশ"
+    },
+    "start": "2022-01",
+    "end": "2022-02",
+    "dateLabel": {
+      "en": "1 Jan 2022 – 28 Feb 2022",
+      "fr": "1er janv. 2022 – 28 févr. 2022",
+      "bn": "1 Jan 2022 – 28 Feb 2022"
+    },
+    "kind": "engineering",
+    "points": {
+      "en": [
+        "Rotated across departments to study repair and maintenance workflows; compiled data for operational analysis."
+      ],
+      "fr": [
+        "Rotation entre les services pour étudier les procédures de réparation et de maintenance ; collecte de données pour l’analyse opérationnelle."
+      ],
+      "bn": [
+        "মেরামত ও রক্ষণাবেক্ষণ প্রক্রিয়া বোঝার জন্য বিভিন্ন বিভাগে কাজ করেছি এবং operational analysis-এর জন্য তথ্য সংকলন করেছি।"
+      ]
+    }
+  },
+  {
+    "id": "bli-2021",
+    "role": {
+      "en": "Engineering Intern",
+      "fr": "Stagiaire ingénieur",
+      "bn": "ইঞ্জিনিয়ারিং ইন্টার্ন"
+    },
+    "org": "Battery Low Interactive Ltd.",
+    "place": {
+      "en": "Dhaka, Bangladesh",
+      "fr": "Dacca, Bangladesh",
+      "bn": "ঢাকা, বাংলাদেশ"
+    },
+    "start": "2021-09",
+    "end": "2021-12",
+    "dateLabel": {
+      "en": "Sep 2021 – Dec 2021",
+      "fr": "sept. 2021 – déc. 2021",
+      "bn": "Sep 2021 – Dec 2021"
+    },
+    "kind": "engineering",
+    "points": {
+      "en": [
+        "Performed QA/QC testing on websites and VR applications, including a project delivered to the Bangladesh Army."
+      ],
+      "fr": [
+        "Tests d’assurance et de contrôle qualité de sites web et d’applications de réalité virtuelle, dont un projet livré à l’armée du Bangladesh."
+      ],
+      "bn": [
+        "ওয়েবসাইট ও VR application-এর QA/QC পরীক্ষা করেছি; এর মধ্যে বাংলাদেশ সেনাবাহিনীর জন্য সরবরাহ করা একটি প্রকল্পও ছিল।"
+      ]
+    }
+  }
+]
