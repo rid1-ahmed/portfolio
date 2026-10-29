@@ -1,6 +1,6 @@
 {
-  "meta.siteTitle": "রিদওয়ান আহমেদ — যন্ত্রকৌশল ও গবেষণা পোর্টফোলিও",
-  "meta.description": "রিদওয়ান আহমেদের একাডেমিক ও প্রকৌশল পোর্টফোলিও; CNAM Paris-এ Structural Mechanics and Coupled Systems বিষয়ে M2 শিক্ষার্থী।",
+  "meta.siteTitle": "রিদওয়ান আহমদ — যন্ত্রকৌশল ও গবেষণা পোর্টফোলিও",
+  "meta.description": "রিদওয়ান আহমদের একাডেমিক ও প্রকৌশল পোর্টফোলিও; CNAM Paris-এ Structural Mechanics and Coupled Systems বিষয়ে M2 শিক্ষার্থী।",
   "nav.about": "পরিচিতি",
   "nav.projects": "প্রকল্প",
   "nav.coursework": "কোর্সওয়ার্ক",
@@ -129,7 +129,7 @@
   "contact.cvLangNote": "PDF সিভি বর্তমানে ইংরেজিতে উপলব্ধ।",
   "contact.formNote": "এই সাইটে contact form নেই; বার্তা সরাসরি ইমেইলে পাঠানো যাবে।",
   "contact.location": "অবস্থান",
-  "footer.text": "© {year} Ridwan Ahmed। সাইটটি static; সর্বশেষ হালনাগাদ {date}।",
+  "footer.text": "© {year} রিদওয়ান আহমদ। সাইটটি static; সর্বশেষ হালনাগাদ {date}।",
   "footer.top": "উপরে ফিরে যান",
   "footer.figures": "প্রকাশিত প্রবন্ধের চিত্র: CC BY-NC 4.0, লেখকদের স্বীকৃতিসহ।",
   "page.engagement": "পেশাগত উন্নয়ন, নেতৃত্ব ও বৈজ্ঞানিক অংশগ্রহণ",
@@ -173,12 +173,12 @@
   "home.meet": "আমার পরিচিতি",
   "home.introKicker": "পরিচিতি",
   "home.meetTitle": "যন্ত্রকৌশলী। গবেষক। সমস্যা সমাধানকারী।",
-  "home.photoCaption": "রিদওয়ান আহমেদ · প্যারিস",
+  "home.photoCaption": "রিদওয়ান আহমদ · প্যারিস",
   "home.focusKicker": "গবেষণার ক্ষেত্র",
   "home.engineeringKicker": "নির্বাচিত প্রকৌশল কাজ",
   "home.discoverKicker": "পোর্টফোলিও ঘুরে দেখুন",
   "home.exploreCertificatesText": "নির্বাচিত সনদপত্র, পুরস্কার ও অংশগ্রহণের প্রমাণ।",
   "home.exploreCvText": "শিক্ষা, অভিজ্ঞতা, গবেষণা ও দক্ষতার সংক্ষিপ্ত বিন্যাস।",
   "contact.links": "পেশাগত লিংক",
-  "home.heroCredit": "ছবি: রিদওয়ান আহমেদ"
+  "home.heroCredit": "ছবি: রিদওয়ান আহমদ"
 }

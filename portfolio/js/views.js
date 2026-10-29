@@ -216,41 +216,37 @@ export function home() {
   const education = D().education;
   const latestExp = D().experience.slice(0, 2);
   const skillGroups = D().skills;
-  const introPanel = h('section', { class: 'intro-panel block', id: 'intro', 'aria-labelledby': 'intro-title' },
-    h('div', { class: 'intro-photo-wrap' },
-      h('img', { class: 'intro-photo', src: P.photo, alt: state.lang === 'fr' ? 'Portrait de Ridwan Ahmed' : state.lang === 'bn' ? 'রিদওয়ান আহমেদের প্রতিকৃতি' : 'Portrait of Ridwan Ahmed', loading: 'lazy' }),
-      h('span', { class: 'photo-caption' }, t('home.photoCaption'))),
-    h('div', { class: 'intro-copy' },
-      h('p', { class: 'kicker' }, t('home.introKicker')),
-      h('h2', { id: 'intro-title' }, t('home.meetTitle')),
-      inline(P.intro, 'p', 'lead'),
-      h('div', { class: 'social-row' },
-        socials.map((x) => h('a', {
-          href: x.url,
-          target: x.url.startsWith('http') ? '_blank' : null,
-          rel: x.url.startsWith('http') ? 'noopener' : null
-        }, inline(x.label)))
-      )
-    )
-  );
+  const heroInterests = [
+    ['Structural mechanics', 'Mécanique des structures', 'Structural mechanics'],
+    ['Coupled systems', 'Systèmes couplés', 'Coupled systems'],
+    ['Vibrations', 'Vibrations', 'Vibrations'],
+    ['Fluid–structure interaction', 'Interaction fluide–structure', 'Fluid–structure interaction'],
+    ['Materials science', 'Science des matériaux', 'Materials science'],
+    ['Aerospace applications', 'Applications aérospatiales', 'Aerospace applications']
+  ];
   return h('div', { class: 'home-page' },
-    h('section', { class: 'hero hero-campus', 'aria-labelledby': 'page-title' },
-      h('img', { class: 'hero-campus-image', src: P.heroImage, alt: state.lang === 'fr' ? 'Photographie personnelle du bâtiment du Cnam Paris' : state.lang === 'bn' ? 'Cnam Paris ভবনের নিজস্ব তোলা ছবি' : 'Personal photograph of the CNAM Paris building', fetchpriority: 'high' }),
-      h('div', { class: 'hero-campus-shade' }),
-      h('div', { class: 'hero-campus-copy' },
-        h('p', { class: 'kicker' }, t('home.kicker')),
-        h('p', { class: 'hero-eyebrow' }, 'CNAM PARIS · LMSSC'),
-        h('h1', { id: 'page-title', tabindex: '-1' }, P.name),
-        inline(P.headline, 'p', 'headline'),
-        h('p', { class: 'hero-caption' }, t('home.heroCaption')),
-        h('p', { class: 'hero-photo-credit' }, t('home.heroCredit')),
-        h('div', { class: 'actions' },
-          h('a', { class: 'btn primary', href: '#intro', onclick: (e) => { e.preventDefault(); document.getElementById('intro')?.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' }); } }, t('home.meet')),
-          h('a', { class: 'btn hero-outline', href: href('cv') }, t('home.cv')),
-          h('a', { class: 'btn hero-outline', href: href('projects') }, t('home.allProjects'))))),
-
-          introPanel,
-    h('section', { class: 'home-focus block', 'aria-label': t('home.interests') },
+    h('section', { class: 'hero hero-campus immersive-hero', id: 'intro', 'aria-labelledby': 'page-title' },
+      h('img', { class: 'immersive-background', src: 'assets/images/cnam-original-building.jpg', alt: 'Original photograph of the CNAM Paris building and French flag', fetchpriority: 'high' }),
+      h('div', { class: 'immersive-shade', 'aria-hidden': 'true' }),
+      h('div', { class: 'immersive-content' },
+        h('p', { class: 'immersive-kicker' }, label('ENGINEERING / RESEARCH / REAL-WORLD IMPACT', 'INGÉNIERIE / RECHERCHE / IMPACT CONCRET', 'ENGINEERING / RESEARCH / REAL-WORLD IMPACT')),
+        h('h1', { id: 'page-title', tabindex: '-1' }, state.lang === 'bn' ? 'রিদওয়ান আহমদ' : ['Ridwan ', h('span', null, 'Ahmed')]),
+        h('h2', { class: 'immersive-role' }, label('Mechanical Engineer. Researcher. Problem Solver.', 'Ingénieur mécanicien. Chercheur. Résolveur de problèmes.', 'Mechanical Engineer. Researcher. Problem Solver.')),
+        h('p', { class: 'immersive-degree' }, label('M2 in Structural Mechanics and Coupled Systems at CNAM Paris', 'M2 Mécanique des structures et systèmes couplés au Cnam Paris', 'M2 in Structural Mechanics and Coupled Systems at CNAM Paris')),
+        inline(P.intro, 'p', 'immersive-bio'),
+        h('div', { class: 'actions immersive-actions' },
+          h('a', { class: 'btn primary', href: href('projects') }, label('Explore my work →', 'Découvrir mes projets →', 'Explore my work →')),
+          h('a', { class: 'btn hero-outline', href: href('about') }, label('Meet the engineer ↓', 'Découvrir mon parcours ↓', 'Meet the engineer ↓'))),
+        h('div', { class: 'immersive-socials' },
+          socials.filter(x => !/publication|research publication/i.test(typeof x.label === 'string' ? x.label : (x.label?.en || ''))).map((x) => h('a', { href: x.url, target: x.url.startsWith('http') ? '_blank' : null, rel: x.url.startsWith('http') ? 'noopener noreferrer' : null }, inline(x.label))),
+          h('a', { href: pub?.doi || href('research'), target: pub?.doi ? '_blank' : null, rel: pub?.doi ? 'noopener noreferrer' : null }, label('Research publication', 'Publication scientifique', 'Research publication'))),
+        h('p', { class: 'immersive-seeking-note' }, label('Seeking research-oriented internship opportunities to tackle real-world engineering challenges.', 'À la recherche d’opportunités de stage orientées recherche pour répondre à des défis d’ingénierie concrets.', 'বাস্তব প্রকৌশলগত চ্যালেঞ্জ মোকাবিলায় গবেষণামুখী ইন্টার্নশিপের সুযোগ খুঁজছি।'))),
+      h('img', { class: 'immersive-portrait', src: 'assets/images/ridwan-cutout-clean-right.png', alt: 'Unretouched original portrait of Ridwan Ahmed', fetchpriority: 'high' }),
+      h('aside', { class: 'immersive-interests', 'aria-label': t('home.interests') },
+        h('p', null, label('AREAS OF INTEREST & RESEARCH DIRECTIONS', 'DOMAINES D’INTÉRÊT ET DE RECHERCHE', 'AREAS OF INTEREST & RESEARCH DIRECTIONS')),
+        h('ul', null, heroInterests.map(x => h('li', null, label(...x))))),
+      h('a', { class: 'immersive-scroll', href: '#home-focus', onclick: (e) => { e.preventDefault(); document.getElementById('home-focus')?.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); } }, h('span', { class: 'immersive-scroll-text' }, label('Scroll', 'Défiler', 'Scroll')), h('span', { class: 'immersive-scroll-arrow', 'aria-hidden': 'true' }, '↓'))),
+    h('section', { class: 'home-focus block', id: 'home-focus', 'aria-label': t('home.interests') },
       h('div', { class: 'focus-heading' }, h('p', { class: 'kicker' }, t('home.focusKicker')), h('h2', null, t('home.interests'))),
       h('div', { class: 'focus-items' }, (P.interests || []).map((x) => h('span', null, txt(x))))),
     h('section', { class: 'block home-project-section', 'aria-labelledby': 'h-feat' },
@@ -440,21 +436,37 @@ export function certificates() {
 }
 
 export function cv() {
+  const label = (en, fr, bn) => inline({ en, fr, bn });
   const P = D().profile, E = D().education, X = D().experience, S = D().skills, pubs = D().publications;
   const featured = D().projects.filter((p) => visible(p) && p.featured).slice(0, 4);
   const c = state.site.contact;
   const cvSections = (title, children, id) => h('section', { class: 'cv-section', 'aria-labelledby': id }, h('h2', { id }, title), children);
   return h('article', { class: 'cv-page' },
     h('header', { class: 'cv-header' },
-      h('div', null, h('p', { class: 'kicker' }, t('home.kicker')), h('h1', { id: 'page-title', tabindex: '-1' }, P.name), inline(P.headline, 'p', 'cv-headline'),
+      h('div', null, h('p', { class: 'kicker' }, t('home.kicker')), h('h1', { id: 'page-title', tabindex: '-1' }, state.lang === 'bn' ? 'রিদওয়ান আহমদ' : P.name), inline(P.headline, 'p', 'cv-headline'),
         h('p', { class: 'cv-contact-line' }, `${txt(P.location)} · ${c.email} · `, h('a', { href: c.linkedin, target: '_blank', rel: 'noopener' }, 'LinkedIn'))),
       h('div', { class: 'cv-actions no-print' }, h('a', { class: 'btn primary', href: cvHref(), download: '' }, t('cv.download')), h('button', { class: 'btn ghost', type: 'button', onclick: () => window.print() }, t('cv.print')))),
     cvSections(t('cv.profile'), inline(P.aboutShort, 'p', 'cv-summary'), 'cv-profile'),
     cvSections(t('cv.education'), h('div', { class: 'cv-list' }, E.map((e) => h('div', { class: 'cv-entry' }, h('h3', null, inline(e.degree)), h('p', { class: 'org' }, e.org, ' · ', inline(e.place)), h('p', { class: 'when' }, inline(e.dateLabel)), e.note ? paras(e.note) : null))), 'cv-education'),
+    cvSections(t('cv.publications'), h('ul', { class: 'prose list' }, pubs.map((p) => h('li', null, `${p.title}. ${p.journal}, ${p.year}. `, h('a', { href: p.doi, target: '_blank', rel: 'noopener' }, 'DOI')))), 'cv-publications'),
     cvSections(t('cv.experience'), h('div', { class: 'cv-list' }, X.map((e) => h('div', { class: 'cv-entry' }, h('h3', null, inline(e.role)), h('p', { class: 'org' }, e.org, ' · ', inline(e.place)), h('p', { class: 'when' }, inline(e.dateLabel)), bullets(e.points)))), 'cv-experience'),
     cvSections(t('cv.skills'), h('div', { class: 'cv-skills' }, S.map((g) => h('p', null, h('strong', null, inline(g.title)), ': ', g.items.map((it, i) => [i ? ', ' : '', inline(typeof it.name === 'string' ? { en: it.name, fr: it.name, bn: it.name } : it.name)])))), 'cv-skills'),
-    cvSections(t('cv.publications'), h('ul', { class: 'prose list' }, pubs.map((p) => h('li', null, `${p.title}. ${p.journal}, ${p.year}. `, h('a', { href: p.doi, target: '_blank', rel: 'noopener' }, 'DOI')))), 'cv-publications'),
     cvSections(t('cv.projects'), h('ul', { class: 'prose list' }, featured.map((p) => h('li', null, inline(p.title), ' — ', inline(p.summary)))), 'cv-projects'),
+    cvSections(label('Leadership, Awards & Extracurricular Activities', 'Responsabilités, distinctions et activités extrascolaires', 'Leadership, Awards & Extracurricular Activities'), h('ul', { class: 'prose list' }, [
+      'President, BAUST Cultural Society (5th Committee)',
+      'Prefect, BN MPC',
+      'NASA Space Apps Collective Cohort (2023) — selected among 30 global Space Leaders',
+      'Winner, GPH Ispat Esho Robot Banai Idea Contest; participant in the 72-hour hackathon',
+      'Runner-up, BAUST intra-university instrumental cultural contest',
+      'Delegate (Iran), Economic and Financial Committee, Bangladesh Model United Nations 2016',
+      'Participant, SustainX Global Case Study Competition 2021',
+      'Member, International Association of Engineers (IAENG)',
+      'Peer reviewer, Results in Engineering (Elsevier)',
+      'Microsoft Engineering Virtual Experience Program; VR game development workshop (Unity)'
+    ].map(x => h('li', null, x))), 'cv-extracurricular'),
+    cvSections(label('Academic References', 'Références académiques', 'Academic References'), h('ul', { class: 'prose list cv-references' },
+      h('li', null, h('strong', null, 'Lucie Rouleau'), ' — Maître de conférences – HDR, LMSSC, Cnam Paris · ', h('a', { href:'mailto:lucie.rouleau@lecnam.net' }, 'lucie.rouleau@lecnam.net')),
+      h('li', null, h('strong', null, 'Jean-François Deü'), ' — Professor, LMSSC, Cnam Paris · ', h('a', { href:'mailto:jean-francois.deu@cnam.fr' }, 'jean-francois.deu@cnam.fr'))), 'cv-references'),
     cvSections(t('cv.languages'), h('ul', { class: 'prose list cv-language-list' }, D().languages.map((l) => h('li', null, h('strong', null, inline(l.name)), ' — ', inline(l.level)))), 'cv-languages'),
     h('p', { class: 'cv-cert-link no-print' }, h('a', { class: 'btn', href: href('certificates') }, t('cv.openCertificates'))));
 }
